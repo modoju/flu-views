@@ -1,0 +1,1676 @@
+category,tier,cell,player,ver,pos,mock9,board,fills,flags
+2-way D,1,1,Giannis Antetokounmpo,,PF,5.0,22.26,INT-D 2WAY GLUE ROLLER,
+2-way D,1,1,Magic Johnson,Lakers,PG,8.0,18.04,DRIVER 2WAY GLUE COMBO,
+2-way D,1,1,Larry Bird,Celtics,SF,21.0,8.53,2WAY GLUE TRADE,faded:Scorer/Shooter/Driver
+2-way D,1,1,Josh Smith,,PF,137.0,6.5,INT-D 2WAY GLUE,
+2-way D,1,1,Bam Adebayo,,C,201.0,3.9,INT-D 2WAY ROLLER,
+2-way D,1,1,James Worthy,Lakers,SF,85.0,2.79,2WAY,faded:Fouls/Glue
+2-way D,1,1,Toumani Camara,,PF,,2.5,2WAY,
+2-way D,1,1,Larry Nance,Suns,SF,203.0,2.0,INT-D 2WAY,
+2-way D,1,1,Bobby Jones,,SF,189.0,2.0,PERI-D INT-D 2WAY,
+2-way D,1,1,Gerald Wallace,,SF,116.0,2.0,2WAY,
+2-way D,1,1,Ausar Thompson,,SF,,2.0,2WAY,
+2-way D,2,2,LeBron James,Heat,SF,3.0,30.08,TAKEOVER PERI-D GLUE TRADE,
+2-way D,2,2,Jayson Tatum,,PF,22.0,24.96,TAKEOVER GLUE STRETCH4,
+2-way D,2,2,Kawhi Leonard,Raptors,SF,14.0,22.72,DRIVER PERI-D TRADE,faded:Glue
+2-way D,2,2,Michael Jordan,Bulls,SG,2.0,19.21,DRIVER PERI-D,faded:Takeover/Combo G/Glue
+2-way D,2,2,Paul George,Pacers,SF,42.0,13.3,PERI-D,faded:Driver/Glue/Passer
+2-way D,2,2,Julius Erving,Nets,SF,29.0,12.39,,faded:Takeover/Scorer
+2-way D,2,2,Victor Wembanyama,,C,10.0,11.81,INT-D STRETCH4 TRADE,
+2-way D,2,2,Scottie Pippen,Bulls,SF,18.0,10.68,PERI-D GLUE TRADE,faded:Fouls
+2-way D,2,2,Rick Barry,,SF,59.0,8.13,GLUE,D<85 faded:Passer
+2-way D,2,2,Chris Bosh,Raptors,PF,146.0,5.53,,faded:Glue
+2-way D,2,2,Evan Mobley,Cavaliers,PF,116.0,4.85,INT-D ROLLER,
+2-way D,2,2,Jaren Jackson Jr.,Grizzlies,PF,150.0,4.59,INT-D GLUE STRETCH4,
+2-way D,2,2,Jimmy Butler,Heat,SF,93.0,3.18,,
+2-way D,2,2,Amen Thompson,,SG,187.0,2.0,PERI-D,
+2-way D,2,2,Jaden McDaniels,,SF,210.0,1.5,,
+2-way D,2,2,Pascal Siakam,Pacers,PF,130.0,1.4,STRETCH4,
+2-way D,2,2,OG Anunoby,,SF,159.0,1.4,,
+2-way D,2,2,Glenn Robinson,Bucks,SF,97.0,1.02,,D<85 faded:Shooter/Glue/Passer
+2-way D,2,2,Nicolas Claxton,,C,201.0,0.8,ROLLER,D<85
+2-way D,2,2,Jack Marin,,SF,243.0,0.8,,
+2-way D,2,2,Ron Holland,,PF,,0.2,,no S7-9 mins
+2-way D,2,2,Jamaal Wilkes,,SF,270.0,0.1,,no S7-9 mins
+2-way D,2,2,Jonathan Isaac,,PF,,-0.1,,D<85
+2-way D,2,2,Aaron Gordon,,PF,200.0,-0.15,STRETCH4,D<85
+2-way D,2,2,Tari Eason,,SG,,-0.2,,no S7-9 mins
+2-way D,2,2,David West,,PF,,-0.3,,no S7-9 mins
+2-way D,2,2,Larry Kenon,,SF,281.0,-0.8,,D<85
+2-way D,2,2,Cooper Flagg,,SF,178.0,-0.9,,D<85
+2-way D,2,2,Shawn Marion,2002-03 Suns,SF,128.0,-1.0,,D<85
+2-way D,2,2,Jarred Vanderbilt,,PF,,-2.0,,D<85 no S7-9 mins
+2-way D,2,2,Dean Wade,,PF,,-2.1,,D<85 no S7-9 mins
+Combo G,1,1 S9,Gilbert Arenas,,PG,29.0,29.82,TAKEOVER SHOOTER DRIVER PG COMBO,D<85
+Combo G,1,1 S9,Shai Gilgeous-Alexander,,PG,7.0,27.21,TAKEOVER DRIVER PG COMBO,faded:Shooter/Glue
+Combo G,1,1 S9,Oscar Robertson,Kings,PG,7.0,26.14,DRIVER GLUE PG COMBO,
+Combo G,1,1 S7f,Kobe Bryant,Lakers,SG,6.0,22.83,TAKEOVER PERI-D,faded:Shooter/Driver/Fouls
+Combo G,1,1 S9,LaMelo Ball,,PG,228.0,21.84,SHOOTER PG COMBO,D<85
+Combo G,1,1 S9,Derrick Rose,Bulls,PG,24.0,21.79,TAKEOVER DRIVER PG COMBO,D<85
+Combo G,1,1 S9,Damian Lillard,Trail Blazers,PG,113.0,17.97,SHOOTER PG COMBO,D<85 faded:Driver
+Combo G,1,1 S9,James Harden,Rockets,SG,33.0,17.21,PG COMBO,D<85 faded:Takeover/Driver
+Combo G,1,1 S7,Dwyane Wade,Heat,SG,13.0,14.55,COMBO,faded:Takeover/Scorer
+Combo G,1,1 S9,Russell Westbrook,Thunder,PG,63.0,13.63,DRIVER PG COMBO,D<85 faded:Takeover/Scorer
+Combo G,1,1 S9,Luka Doncic,,PG,40.0,11.93,COMBO,D<85 faded:Driver/Fouls/Scoring PG
+Combo G,1,1 S8,Kyrie Irving,Cavaliers,PG,87.0,11.89,COMBO,D<85 faded:Takeover/Scorer/Shooter
+Combo G,1,1 S9,Jerry West,Lakers,PG,28.0,11.86,PERI-D PG COMBO,faded:Shooter/Driver
+Combo G,1,1 S7,Tony Parker,Spurs,PG,72.0,9.88,DRIVER COMBO,D<85 faded:Scoring PG
+Combo G,1,1 S9,Dave Bing,,PG,186.0,9.74,PG COMBO,D<85
+Combo G,1,1 S9,Baron Davis,Pelicans,PG,75.0,9.73,PG COMBO,faded:Driver/Fouls
+Combo G,1,1 S9,Jamal Murray,,PG,225.0,9.32,PG COMBO,D<85
+Combo G,1,1 S9,Fred Brown,,PG,157.0,9.1,PG COMBO,D<85 faded:Scorer/Driver
+Combo G,1,1 S9,Jalen Brunson,,PG,130.0,8.9,PG COMBO,D<85 faded:Scorer/Driver
+Combo G,1,1 S8,Allen Iverson,76ers,SG,45.0,8.52,DRIVER COMBO,<6'2 faded:Scorer/Scoring PG
+Combo G,1,1 S9,Tyrese Haliburton,,PG,78.0,8.39,PG COMBO,D<85
+Combo G,1,1 S9,Gail Goodrich,,SG,157.0,8.02,SHOOTER COMBO,<6'2
+Combo G,1,1 S9,Tim Hardaway,Warriors,PG,179.0,7.93,PG COMBO,<6'2
+Combo G,1,1 S9,Joe Dumars,Pistons,SG,58.0,6.71,PERI-D PG COMBO,faded:Shooter/Driver/Fouls
+Combo G,1,1 S9,Jason Kidd,Nets,PG,35.0,6.22,PERI-D GLUE COMBO TRADE,faded:Driver/Fouls/Scoring PG
+Combo G,1,1 S9,Kyle Lowry,Raptors,PG,244.0,6.11,PG COMBO,<6'2
+Combo G,1,1 S9,Jo Jo White,,PG,143.0,6.1,COMBO,faded:Driver/Fouls/Scoring PG
+Combo G,1,1 S8,Penny Hardaway,Magic,PG,45.0,5.76,COMBO,faded:Driver/Scoring PG/Glue
+Combo G,1,1 S8,Steve Francis,,PG,174.0,5.5,PG COMBO,D<85
+Combo G,1,1 S8,Derrick White,,SG,229.0,5.41,PERI-D GLUE PG COMBO,faded:Fouls
+Combo G,1,1 S9,Bob Cousy,,PG,75.0,4.97,PG COMBO TRADE,<6'2 faded:Fouls
+Combo G,1,1 S9,John Starks,,SG,187.0,4.83,PERI-D COMBO,
+Combo G,1,1 S9,Cade Cunningham,,PG,78.0,4.36,PG COMBO,D<85
+Combo G,1,1 S9,Gary Payton,Thunder,PG,60.0,4.35,PERI-D COMBO TRADE,faded:Scoring PG/Glue
+Combo G,1,1 S9,Kirk Hinrich,,PG,245.0,3.9,GLUE COMBO,
+Combo G,1,1 S8,Don Ohl,,PG,230.0,3.78,PG COMBO,D<85
+Combo G,1,1 S8,Richie Guerin,,SG,136.0,3.78,COMBO,faded:Driver/Fouls/Scoring PG
+Combo G,1,1 S9,Chauncey Billups,Pistons,PG,83.0,3.74,PERI-D COMBO,faded:Scoring PG
+Combo G,1,1 S7,World B. Free,Clippers,PG,264.0,3.73,COMBO,D<85
+Combo G,1,1 S9,Steve Nash,Suns,PG,59.0,3.69,PG COMBO,D<85
+Combo G,1,1 S8,Chris Paul,,PG,39.0,3.62,COMBO TRADE,<6'2 faded:Driver/Fouls/Scoring PG
+Combo G,1,1 S9,John Wall,,PG,109.0,2.4,COMBO,
+Combo G,1,1 S7,Derek Harper,Mavericks,PG,216.0,2.36,COMBO,faded:Glue/Passer
+Combo G,1,1 S8,John Stockton,Jazz,PG,43.0,2.23,PERI-D COMBO TRADE,<6'2 faded:Scoring PG/Passer
+Combo G,1,1 S7,Mike Conley,Grizzlies,PG,245.0,1.95,PG COMBO,<6'2
+Combo G,1,1 S8,Mark Price,Cavaliers,PG,193.0,1.53,COMBO,D<85 <6'2
+Combo G,1,1 S8,Geoff Petrie,,SG,246.0,1.08,PG COMBO,D<85
+Combo G,1,1 S9,Ja Morant,Grizzlies,PG,71.0,0.9,COMBO,D<85
+Combo G,1,1 S9,Manu Ginobili,Spurs,SG,162.0,0.77,COMBO,D<85 faded:Fouls
+Combo G,2,2 S8f,Stephen Curry,Warriors,PG,21.0,26.04,TAKEOVER SHOOTER,D<85 faded:Combo G/Passer
+Combo G,2,2 S8f,Tracy McGrady,Magic,SG,46.0,25.05,TAKEOVER SHOOTER GLUE,D<85 faded:Driver/Fouls/Combo G
+Combo G,2,2 S7f,Michael Jordan,Bulls,SG,2.0,19.21,DRIVER PERI-D,faded:Takeover/Combo G/Glue
+Combo G,2,2 S9,Magic Johnson,Lakers,PG,8.0,18.04,DRIVER 2WAY GLUE COMBO,
+Combo G,2,2 S7f,Devin Booker,,PG,62.0,13.5,,D<85 faded:Takeover/Driver/Combo G
+Combo G,2,2 S9,Nate Archibald,,PG,174.0,11.13,DRIVER COMBO,D<85 <6'2
+Combo G,2,2 S9,Walt Frazier,Knicks,PG,33.0,10.73,DRIVER PERI-D COMBO TRADE,faded:Glue
+Combo G,2,2 S9,Pete Maravich,Jazz,SG,77.0,10.34,COMBO,D<85 faded:Shooter
+Combo G,2,2 S9,Charlie Scott,,PG,237.0,7.17,GLUE COMBO,D<85
+Combo G,2,2 S9,Earl Monroe,Wizards,PG,,5.58,COMBO,D<85
+Combo G,2,2 S9,Brandon Roy,Trail Blazers,SG,79.0,5.44,GLUE COMBO,D<85 faded:Driver
+Combo G,2,2 S9,Fat Lever,,PG,139.0,4.29,COMBO,
+Combo G,2,2 S9,Dennis Johnson,Suns,PG,86.0,3.86,PERI-D COMBO TRADE,faded:Driver/Fouls/Glue
+Combo G,2,2 S9,Sidney Moncrief,Bucks,SG,100.0,2.87,PERI-D COMBO TRADE,faded:Driver/Fouls/Passer
+Combo G,2,2 S9,Micheal Ray Richardson,,PG,105.0,2.69,PERI-D COMBO,faded:Fouls/Glue/Passer
+Combo G,2,2 S9,Don Buse,,PG,189.0,2.42,COMBO,faded:Driver/Fouls/Glue
+Combo G,2,2 S9,Ron Harper,,PG,201.0,2.4,PERI-D COMBO,faded:Glue/Passer
+Combo G,2,2 S9,Donovan Mitchell,,SG,95.0,2.26,COMBO,D<85 faded:Scorer/Shooter/Driver
+Combo G,2,2 S8,Jalen Suggs,,PG,218.0,2.05,COMBO,
+Combo G,2,2 S7f,Tony Allen,,SG,240.0,1.41,PERI-D,faded:Combo G
+Combo G,2,2 S9,Isiah Thomas,Pistons,PG,86.0,1.38,COMBO,<6'2 faded:Driver/Fouls
+Combo G,2,2 S9,Rajon Rondo,Celtics,PG,207.0,1.11,PERI-D COMBO,<6'2 faded:Passer
+Combo G,2,2 S7f,Doug Collins,,SG,196.0,0.95,GLUE,D<85 faded:Shooter/Combo G
+Combo G,2,2 S7f,Ben Simmons,,PG,126.0,-0.15,,D<85 faded:Combo G/Glue
+Combo G,2,2 S8,Dejounte Murray,,PG,,-0.29,COMBO,D<85
+Combo G,2,2 S7f,Morris Peterson,,SG,236.0,-0.85,,D<85 faded:Combo G
+Driver,1,1 S9,Gilbert Arenas,,PG,29.0,29.82,TAKEOVER SHOOTER DRIVER PG COMBO,D<85
+Driver,1,1 S9,Shai Gilgeous-Alexander,,PG,7.0,27.21,TAKEOVER DRIVER PG COMBO,faded:Shooter/Glue
+Driver,1,1 S9,Carmelo Anthony,,SF,17.0,26.59,TAKEOVER SHOOTER DRIVER,D<85
+Driver,1,1 S9,Oscar Robertson,Kings,PG,7.0,26.14,DRIVER GLUE PG COMBO,
+Driver,1,1 S8f,Kobe Bryant,Lakers,SG,6.0,22.83,TAKEOVER PERI-D,faded:Shooter/Driver/Fouls
+Driver,1,1 S9,Vince Carter,Raptors,SF,21.0,22.75,TAKEOVER DRIVER,D<85 faded:Shooter/Glue
+Driver,1,1 S9,Kawhi Leonard,Raptors,SF,14.0,22.72,DRIVER PERI-D TRADE,faded:Glue
+Driver,1,1 S9,Derrick Rose,Bulls,PG,24.0,21.79,TAKEOVER DRIVER PG COMBO,D<85
+Driver,1,1 S7,Michael Jordan,Bulls,SG,2.0,19.21,DRIVER PERI-D,faded:Takeover/Combo G/Glue
+Driver,1,1 S8,Magic Johnson,Lakers,PG,8.0,18.04,DRIVER 2WAY GLUE COMBO,
+Driver,1,1 S8f,James Harden,Rockets,SG,33.0,17.21,PG COMBO,D<85 faded:Takeover/Driver
+Driver,1,1 S8,Russell Westbrook,Thunder,PG,63.0,13.63,DRIVER PG COMBO,D<85 faded:Takeover/Scorer
+Driver,1,1 S8f,Paul George,Pacers,SF,42.0,13.3,PERI-D,faded:Driver/Glue/Passer
+Driver,1,1 S9,Bob McAdoo,,C,83.0,12.61,DRIVER,faded:Roller
+Driver,1,1 S7f,Luka Doncic,,PG,40.0,11.93,COMBO,D<85 faded:Driver/Fouls/Scoring PG
+Driver,1,1 S9,Nate Archibald,,PG,174.0,11.13,DRIVER COMBO,D<85 <6'2
+Driver,1,1 S9,Walt Frazier,Knicks,PG,33.0,10.73,DRIVER PERI-D COMBO TRADE,faded:Glue
+Driver,1,1 S7,Nikola Jokic,,C,18.0,10.68,DRIVER,D<85 faded:Fouls
+Driver,1,1 S7,Tony Parker,Spurs,PG,72.0,9.88,DRIVER COMBO,D<85 faded:Scoring PG
+Driver,1,1 S9,Allen Iverson,76ers,SG,45.0,8.52,DRIVER COMBO,<6'2 faded:Scorer/Scoring PG
+Driver,1,1 S7,Brandon Ingram,,SF,279.0,7.13,DRIVER,D<85 faded:Scorer
+Driver,1,1 S8f,Alex English,,SF,92.0,5.52,GLUE,D<85 faded:Driver
+Driver,1,1 S7f,Dennis Johnson,Suns,PG,86.0,3.86,PERI-D COMBO TRADE,faded:Driver/Fouls/Glue
+Driver,1,1 S8f,Chris Paul,,PG,39.0,3.62,COMBO TRADE,<6'2 faded:Driver/Fouls/Scoring PG
+Driver,2,2 S9,Kevin Durant,Thunder,SF,18.0,30.31,TAKEOVER SHOOTER GLUE TRADE,
+Driver,2,2 S9,LeBron James,Heat,SF,3.0,30.08,TAKEOVER PERI-D GLUE TRADE,
+Driver,2,2 S9,Stephen Curry,Warriors,PG,21.0,26.04,TAKEOVER SHOOTER,D<85 faded:Combo G/Passer
+Driver,2,2 S7f,Tracy McGrady,Magic,SG,46.0,25.05,TAKEOVER SHOOTER GLUE,D<85 faded:Driver/Fouls/Combo G
+Driver,2,2 S9,Jayson Tatum,,PF,22.0,24.96,TAKEOVER GLUE STRETCH4,
+Driver,2,2 S9,LaMelo Ball,,PG,228.0,21.84,SHOOTER PG COMBO,D<85
+Driver,2,2 S8f,Dirk Nowitzki,Mavericks,PF,24.0,19.43,GLUE STRETCH4,faded:Driver/Fouls
+Driver,2,2 S7f,Damian Lillard,Trail Blazers,PG,113.0,17.97,SHOOTER PG COMBO,D<85 faded:Driver
+Driver,2,2 S9,Kareem Abdul-Jabbar,Bucks,C,3.0,16.97,INT-D ROLLER TRADE,
+Driver,2,2 S9,Dwyane Wade,Heat,SG,13.0,14.55,COMBO,faded:Takeover/Scorer
+Driver,2,2 S9,Hakeem Olajuwon,Rockets,C,20.0,14.34,INT-D ROLLER TRADE,
+Driver,2,2 S8f,Devin Booker,,PG,62.0,13.5,,D<85 faded:Takeover/Driver/Combo G
+Driver,2,2 S9,Julius Erving,Nets,SF,29.0,12.39,,faded:Takeover/Scorer
+Driver,2,2 S9,Kyrie Irving,Cavaliers,PG,87.0,11.89,COMBO,D<85 faded:Takeover/Scorer/Shooter
+Driver,2,2 S7f,Jerry West,Lakers,PG,28.0,11.86,PERI-D PG COMBO,faded:Shooter/Driver
+Driver,2,2 S9,Kevin Garnett,2003-04 Timberwolves,PF,25.0,11.25,INT-D,
+Driver,2,2 S9,Pete Maravich,Jazz,SG,77.0,10.34,COMBO,D<85 faded:Shooter
+Driver,2,2 S8f,Grant Hill,Pistons,SF,48.0,10.31,,faded:Takeover/Scorer/Driver
+Driver,2,2 S9,Dave Bing,,PG,186.0,9.74,PG COMBO,D<85
+Driver,2,2 S8f,Baron Davis,Pelicans,PG,75.0,9.73,PG COMBO,faded:Driver/Fouls
+Driver,2,2 S7f,Fred Brown,,PG,157.0,9.1,PG COMBO,D<85 faded:Scorer/Driver
+Driver,2,2 S7f,Jalen Brunson,,PG,130.0,8.9,PG COMBO,D<85 faded:Scorer/Driver
+Driver,2,2 S7f,Larry Bird,Celtics,SF,21.0,8.53,2WAY GLUE TRADE,faded:Scorer/Shooter/Driver
+Driver,2,2 S9,Tyrese Haliburton,,PG,78.0,8.39,PG COMBO,D<85
+Driver,2,2 S9,Rick Barry,,SF,59.0,8.13,GLUE,D<85 faded:Passer
+Driver,2,2 S7f,Clyde Drexler,Trail Blazers,SG,47.0,8.02,GLUE,faded:Driver/Fouls/Passer
+Driver,2,2 S9,Charlie Scott,,PG,237.0,7.17,GLUE COMBO,D<85
+Driver,2,2 S8f,Joe Dumars,Pistons,SG,58.0,6.71,PERI-D PG COMBO,faded:Shooter/Driver/Fouls
+Driver,2,2 S8f,Jason Kidd,Nets,PG,35.0,6.22,PERI-D GLUE COMBO TRADE,faded:Driver/Fouls/Scoring PG
+Driver,2,2 S8f,Jo Jo White,,PG,143.0,6.1,COMBO,faded:Driver/Fouls/Scoring PG
+Driver,2,2 S8f,Elgin Baylor,Lakers,SF,53.0,5.99,TRADE,faded:Driver/Glue
+Driver,2,2 S8f,Penny Hardaway,Magic,PG,45.0,5.76,COMBO,faded:Driver/Scoring PG/Glue
+Driver,2,2 S9,Earl Monroe,Wizards,PG,,5.58,COMBO,D<85
+Driver,2,2 S9,Steve Francis,,PG,174.0,5.5,PG COMBO,D<85
+Driver,2,2 S7f,Brandon Roy,Trail Blazers,SG,79.0,5.44,GLUE COMBO,D<85 faded:Driver
+Driver,2,2 S8f,Dominique Wilkins,Hawks,SF,100.0,5.01,GLUE,D<85 faded:Driver
+Driver,2,2 S8f,George Gervin,Spurs,SF,112.0,4.8,,faded:Driver/Fouls/Glue
+Driver,2,2 S8,Don Ohl,,PG,230.0,3.78,PG COMBO,D<85
+Driver,2,2 S8f,Richie Guerin,,SG,136.0,3.78,COMBO,faded:Driver/Fouls/Scoring PG
+Driver,2,2 S9,World B. Free,Clippers,PG,264.0,3.73,COMBO,D<85
+Driver,2,2 S9,Jerry Stackhouse,,SG,100.0,3.62,,D<85 faded:Scorer
+Driver,2,2 S8,Michael Finley,,SF,165.0,3.04,,D<85
+Driver,2,2 S7f,Sidney Moncrief,Bucks,SG,100.0,2.87,PERI-D COMBO TRADE,faded:Driver/Fouls/Passer
+Driver,2,2 S7f,Dell Curry,,SG,157.0,2.6,SHOOTER,D<85 faded:Scorer/Driver/Fouls
+Driver,2,2 S7f,Don Buse,,PG,189.0,2.42,COMBO,faded:Driver/Fouls/Glue
+Driver,2,2 S7f,Donovan Mitchell,,SG,95.0,2.26,COMBO,D<85 faded:Scorer/Shooter/Driver
+Driver,2,2 S8f,Isiah Thomas,Pistons,PG,86.0,1.38,COMBO,<6'2 faded:Driver/Fouls
+Driver,2,2 S7f,Adrian Dantley,,SF,203.0,0.69,,D<85 faded:Driver/Fouls/Glue
+Driver,2,2 S7f,Bill Sharman,,SG,114.0,-0.05,,<6'2 faded:Driver/Fouls
+Fouls,1,1 S9,Kevin Durant,Thunder,SF,18.0,30.31,TAKEOVER SHOOTER GLUE TRADE,
+Fouls,1,1 S9,Gilbert Arenas,,PG,29.0,29.82,TAKEOVER SHOOTER DRIVER PG COMBO,D<85
+Fouls,1,1 S9,Shai Gilgeous-Alexander,,PG,7.0,27.21,TAKEOVER DRIVER PG COMBO,faded:Shooter/Glue
+Fouls,1,1 S9,Carmelo Anthony,,SF,17.0,26.59,TAKEOVER SHOOTER DRIVER,D<85
+Fouls,1,1 S9,Oscar Robertson,Kings,PG,7.0,26.14,DRIVER GLUE PG COMBO,
+Fouls,1,1 S9,Stephen Curry,Warriors,PG,21.0,26.04,TAKEOVER SHOOTER,D<85 faded:Combo G/Passer
+Fouls,1,1 S8,Jayson Tatum,,PF,22.0,24.96,TAKEOVER GLUE STRETCH4,
+Fouls,1,1 S8f,Kobe Bryant,Lakers,SG,6.0,22.83,TAKEOVER PERI-D,faded:Shooter/Driver/Fouls
+Fouls,1,1 S9,Vince Carter,Raptors,SF,21.0,22.75,TAKEOVER DRIVER,D<85 faded:Shooter/Glue
+Fouls,1,1 S9,Kawhi Leonard,Raptors,SF,14.0,22.72,DRIVER PERI-D TRADE,faded:Glue
+Fouls,1,1 S9,LaMelo Ball,,PG,228.0,21.84,SHOOTER PG COMBO,D<85
+Fouls,1,1 S9,Derrick Rose,Bulls,PG,24.0,21.79,TAKEOVER DRIVER PG COMBO,D<85
+Fouls,1,1 S9,Michael Jordan,Bulls,SG,2.0,19.21,DRIVER PERI-D,faded:Takeover/Combo G/Glue
+Fouls,1,1 S9,Magic Johnson,Lakers,PG,8.0,18.04,DRIVER 2WAY GLUE COMBO,
+Fouls,1,1 S9,Damian Lillard,Trail Blazers,PG,113.0,17.97,SHOOTER PG COMBO,D<85 faded:Driver
+Fouls,1,1 S8,James Harden,Rockets,SG,33.0,17.21,PG COMBO,D<85 faded:Takeover/Driver
+Fouls,1,1 S9,Russell Westbrook,Thunder,PG,63.0,13.63,DRIVER PG COMBO,D<85 faded:Takeover/Scorer
+Fouls,1,1 S8,Paul George,Pacers,SF,42.0,13.3,PERI-D,faded:Driver/Glue/Passer
+Fouls,1,1 S9,Bob McAdoo,,C,83.0,12.61,DRIVER,faded:Roller
+Fouls,1,1 S9,Julius Erving,Nets,SF,29.0,12.39,,faded:Takeover/Scorer
+Fouls,1,1 S9,Kyrie Irving,Cavaliers,PG,87.0,11.89,COMBO,D<85 faded:Takeover/Scorer/Shooter
+Fouls,1,1 S9,Kevin Garnett,2003-04 Timberwolves,PF,25.0,11.25,INT-D,
+Fouls,1,1 S9,Nate Archibald,,PG,174.0,11.13,DRIVER COMBO,D<85 <6'2
+Fouls,1,1 S9,Walt Frazier,Knicks,PG,33.0,10.73,DRIVER PERI-D COMBO TRADE,faded:Glue
+Fouls,1,1 S7f,Nikola Jokic,,C,18.0,10.68,DRIVER,D<85 faded:Fouls
+Fouls,1,1 S9,Pete Maravich,Jazz,SG,77.0,10.34,COMBO,D<85 faded:Shooter
+Fouls,1,1 S8,Grant Hill,Pistons,SF,48.0,10.31,,faded:Takeover/Scorer/Driver
+Fouls,1,1 S9,Tony Parker,Spurs,PG,72.0,9.88,DRIVER COMBO,D<85 faded:Scoring PG
+Fouls,1,1 S9,Dave Bing,,PG,186.0,9.74,PG COMBO,D<85
+Fouls,1,1 S9,Allen Iverson,76ers,SG,45.0,8.52,DRIVER COMBO,<6'2 faded:Scorer/Scoring PG
+Fouls,1,1 S9,Rick Barry,,SF,59.0,8.13,GLUE,D<85 faded:Passer
+Fouls,1,1 S9,Brandon Ingram,,SF,279.0,7.13,DRIVER,D<85 faded:Scorer
+Fouls,1,1 S8f,Jason Kidd,Nets,PG,35.0,6.22,PERI-D GLUE COMBO TRADE,faded:Driver/Fouls/Scoring PG
+Fouls,1,1 S8f,Jo Jo White,,PG,143.0,6.1,COMBO,faded:Driver/Fouls/Scoring PG
+Fouls,1,1 S8,Penny Hardaway,Magic,PG,45.0,5.76,COMBO,faded:Driver/Scoring PG/Glue
+Fouls,1,1 S9,Earl Monroe,Wizards,PG,,5.58,COMBO,D<85
+Fouls,1,1 S8,Alex English,,SF,92.0,5.52,GLUE,D<85 faded:Driver
+Fouls,1,1 S9,Steve Francis,,PG,174.0,5.5,PG COMBO,D<85
+Fouls,1,1 S9,Dale Ellis,,SG,201.0,4.79,,D<85
+Fouls,1,1 S7f,Dennis Johnson,Suns,PG,86.0,3.86,PERI-D COMBO TRADE,faded:Driver/Fouls/Glue
+Fouls,1,1 S7f,Richie Guerin,,SG,136.0,3.78,COMBO,faded:Driver/Fouls/Scoring PG
+Fouls,1,1 S9,World B. Free,Clippers,PG,264.0,3.73,COMBO,D<85
+Fouls,1,1 S7,Jerry Stackhouse,,SG,100.0,3.62,,D<85 faded:Scorer
+Fouls,1,1 S8f,Chris Paul,,PG,39.0,3.62,COMBO TRADE,<6'2 faded:Driver/Fouls/Scoring PG
+Fouls,1,1 S7f,Isiah Thomas,Pistons,PG,86.0,1.38,COMBO,<6'2 faded:Driver/Fouls
+Fouls,2,2 S8f,Tracy McGrady,Magic,SG,46.0,25.05,TAKEOVER SHOOTER GLUE,D<85 faded:Driver/Fouls/Combo G
+Fouls,2,2 S9,Anthony Edwards,,SG,40.0,20.9,TAKEOVER,faded:Shooter
+Fouls,2,2 S8f,Dirk Nowitzki,Mavericks,PF,24.0,19.43,GLUE STRETCH4,faded:Driver/Fouls
+Fouls,2,2 S9,Kareem Abdul-Jabbar,Bucks,C,3.0,16.97,INT-D ROLLER TRADE,
+Fouls,2,2 S9,Hakeem Olajuwon,Rockets,C,20.0,14.34,INT-D ROLLER TRADE,
+Fouls,2,2 S9,Devin Booker,,PG,62.0,13.5,,D<85 faded:Takeover/Driver/Combo G
+Fouls,2,2 S8f,Luka Doncic,,PG,40.0,11.93,COMBO,D<85 faded:Driver/Fouls/Scoring PG
+Fouls,2,2 S9,Jerry West,Lakers,PG,28.0,11.86,PERI-D PG COMBO,faded:Shooter/Driver
+Fouls,2,2 S7f,Scottie Pippen,Bulls,SF,18.0,10.68,PERI-D GLUE TRADE,faded:Fouls
+Fouls,2,2 S7f,Mitch Richmond,Kings,SG,42.0,9.73,SHOOTER,D<85 faded:Takeover/Scorer/Fouls
+Fouls,2,2 S8f,Baron Davis,Pelicans,PG,75.0,9.73,PG COMBO,faded:Driver/Fouls
+Fouls,2,2 S7f,Joel Embiid,76ers,C,62.0,9.43,INT-D STRETCH4 TRADE,faded:Fouls
+Fouls,2,2 S9,Jamal Murray,,PG,225.0,9.32,PG COMBO,D<85
+Fouls,2,2 S9,Fred Brown,,PG,157.0,9.1,PG COMBO,D<85 faded:Scorer/Driver
+Fouls,2,2 S9,Jalen Brunson,,PG,130.0,8.9,PG COMBO,D<85 faded:Scorer/Driver
+Fouls,2,2 S9,Larry Bird,Celtics,SF,21.0,8.53,2WAY GLUE TRADE,faded:Scorer/Shooter/Driver
+Fouls,2,2 S9,Tyrese Haliburton,,PG,78.0,8.39,PG COMBO,D<85
+Fouls,2,2 S7f,Clyde Drexler,Trail Blazers,SG,47.0,8.02,GLUE,faded:Driver/Fouls/Passer
+Fouls,2,2 S9,Tim Hardaway,Warriors,PG,179.0,7.93,PG COMBO,<6'2
+Fouls,2,2 S9,Charlie Scott,,PG,237.0,7.17,GLUE COMBO,D<85
+Fouls,2,2 S8f,Joe Dumars,Pistons,SG,58.0,6.71,PERI-D PG COMBO,faded:Shooter/Driver/Fouls
+Fouls,2,2 S9,Elgin Baylor,Lakers,SF,53.0,5.99,TRADE,faded:Driver/Glue
+Fouls,2,2 S9,Brandon Roy,Trail Blazers,SG,79.0,5.44,GLUE COMBO,D<85 faded:Driver
+Fouls,2,2 S7f,Derrick White,,SG,229.0,5.41,PERI-D GLUE PG COMBO,faded:Fouls
+Fouls,2,2 S9,DeMarcus Cousins,Kings,C,177.0,5.05,ROLLER,D<85
+Fouls,2,2 S9,Dominique Wilkins,Hawks,SF,100.0,5.01,GLUE,D<85 faded:Driver
+Fouls,2,2 S7f,Bob Cousy,,PG,75.0,4.97,PG COMBO TRADE,<6'2 faded:Fouls
+Fouls,2,2 S8f,George Gervin,Spurs,SF,112.0,4.8,,faded:Driver/Fouls/Glue
+Fouls,2,2 S9,Cade Cunningham,,PG,78.0,4.36,PG COMBO,D<85
+Fouls,2,2 S9,Fat Lever,,PG,139.0,4.29,COMBO,
+Fouls,2,2 S9,Paul Pierce,Celtics,SF,64.0,3.91,,
+Fouls,2,2 S8,Don Ohl,,PG,230.0,3.78,PG COMBO,D<85
+Fouls,2,2 S9,Chris Webber,Kings,PF,97.0,3.74,,D<85
+Fouls,2,2 S8,Michael Finley,,SF,165.0,3.04,,D<85
+Fouls,2,2 S7f,Sidney Moncrief,Bucks,SG,100.0,2.87,PERI-D COMBO TRADE,faded:Driver/Fouls/Passer
+Fouls,2,2 S7f,James Worthy,Lakers,SF,85.0,2.79,2WAY,faded:Fouls/Glue
+Fouls,2,2 S8f,Micheal Ray Richardson,,PG,105.0,2.69,PERI-D COMBO,faded:Fouls/Glue/Passer
+Fouls,2,2 S7f,Dell Curry,,SG,157.0,2.6,SHOOTER,D<85 faded:Scorer/Driver/Fouls
+Fouls,2,2 S7f,Don Buse,,PG,189.0,2.42,COMBO,faded:Driver/Fouls/Glue
+Fouls,2,2 S7f,Donovan Mitchell,,SG,95.0,2.26,COMBO,D<85 faded:Scorer/Shooter/Driver
+Fouls,2,2 S8f,Paul Arizin,,SF,70.0,2.22,TRADE,faded:Shooter/Fouls/Passer
+Fouls,2,2 S8f,Jaylen Brown,,SF,60.0,1.86,,faded:Shooter/Fouls
+Fouls,2,2 S8f,Jerry Sloan,,SG,132.0,1.42,PERI-D,faded:Fouls
+Fouls,2,2 S8f,Manu Ginobili,Spurs,SG,162.0,0.77,COMBO,D<85 faded:Fouls
+Fouls,2,2 S7f,Adrian Dantley,,SF,203.0,0.69,,D<85 faded:Driver/Fouls/Glue
+Fouls,2,2 S8f,Marques Johnson,,SF,127.0,0.63,,faded:Fouls/Passer
+Fouls,2,2 S9,Walter Davis,,SG,236.0,0.08,,D<85
+Fouls,2,2 S7f,Bill Sharman,,SG,114.0,-0.05,,<6'2 faded:Driver/Fouls
+Fouls,2,2 S8,Nicolas Batum,,SF,,-1.02,,D<85
+Fouls,2,2 S7f,Billy Cunningham,,SF,153.0,-1.39,,D<85 faded:Fouls
+Glue,1,1 S9,Kevin Durant,Thunder,SF,18.0,30.31,TAKEOVER SHOOTER GLUE TRADE,
+Glue,1,1 S9,LeBron James,Heat,SF,3.0,30.08,TAKEOVER PERI-D GLUE TRADE,
+Glue,1,1 S9,Jayson Tatum,,PF,22.0,24.96,TAKEOVER GLUE STRETCH4,
+Glue,1,1 S8f,Kobe Bryant,Lakers,SG,6.0,22.83,TAKEOVER PERI-D,faded:Shooter/Driver/Fouls
+Glue,1,1 S7f,Kawhi Leonard,Raptors,SF,14.0,22.72,DRIVER PERI-D TRADE,faded:Glue
+Glue,1,1 S9,Giannis Antetokounmpo,,PF,5.0,22.26,INT-D 2WAY GLUE ROLLER,
+Glue,1,1 S7,Dirk Nowitzki,Mavericks,PF,24.0,19.43,GLUE STRETCH4,faded:Driver/Fouls
+Glue,1,1 S9,John Havlicek,,SF,15.0,19.24,SHOOTER PERI-D GLUE TRADE,
+Glue,1,1 S7f,Michael Jordan,Bulls,SG,2.0,19.21,DRIVER PERI-D,faded:Takeover/Combo G/Glue
+Glue,1,1 S9,Magic Johnson,Lakers,PG,8.0,18.04,DRIVER 2WAY GLUE COMBO,
+Glue,1,1 S9,Tim Duncan,Spurs,PF,36.0,13.72,INT-D GLUE ROLLER TRADE,
+Glue,1,1 S9,Karl Malone,Jazz,PF,73.0,12.63,INT-D GLUE ROLLER TRADE,
+Glue,1,1 S9,Dolph Schayes,,PF,54.0,11.45,INT-D GLUE STRETCH4 ROLLER TRADE,faded:Passer
+Glue,1,1 S9,Jermaine O'Neal,,PF,242.0,11.01,GLUE ROLLER,
+Glue,1,1 S7f,Walt Frazier,Knicks,PG,33.0,10.73,DRIVER PERI-D COMBO TRADE,faded:Glue
+Glue,1,1 S9,Scottie Pippen,Bulls,SF,18.0,10.68,PERI-D GLUE TRADE,faded:Fouls
+Glue,1,1 S7f,Grant Hill,Pistons,SF,48.0,10.31,,faded:Takeover/Scorer/Driver
+Glue,1,1 S9,Elvin Hayes,Wizards,PF,110.0,8.85,INT-D GLUE ROLLER TRADE,
+Glue,1,1 S9,Kevin Love,Timberwolves,PF,125.0,7.03,GLUE STRETCH4,
+Glue,1,1 S9,Dan Issel,,PF,194.0,6.99,GLUE ROLLER,
+Glue,1,1 S9,Josh Smith,,PF,137.0,6.5,INT-D 2WAY GLUE,
+Glue,1,1 S8f,Elgin Baylor,Lakers,SF,53.0,5.99,TRADE,faded:Driver/Glue
+Glue,1,1 S8f,Chris Bosh,Raptors,PF,146.0,5.53,,faded:Glue
+Glue,1,1 S8f,George Gervin,Spurs,SF,112.0,4.8,,faded:Driver/Fouls/Glue
+Glue,1,1 S7f,James Worthy,Lakers,SF,85.0,2.79,2WAY,faded:Fouls/Glue
+Glue,1,1 S7f,Ron Harper,,PG,201.0,2.4,PERI-D COMBO,faded:Glue/Passer
+Glue,2,2 S8f,Shai Gilgeous-Alexander,,PG,7.0,27.21,TAKEOVER DRIVER PG COMBO,faded:Shooter/Glue
+Glue,2,2 S9,Oscar Robertson,Kings,PG,7.0,26.14,DRIVER GLUE PG COMBO,
+Glue,2,2 S9,Tracy McGrady,Magic,SG,46.0,25.05,TAKEOVER SHOOTER GLUE,D<85 faded:Driver/Fouls/Combo G
+Glue,2,2 S7f,Vince Carter,Raptors,SF,21.0,22.75,TAKEOVER DRIVER,D<85 faded:Shooter/Glue
+Glue,2,2 S9,Bob Pettit,,PF,41.0,13.82,SHOOTER GLUE STRETCH4 ROLLER,D<85
+Glue,2,2 S8f,Paul George,Pacers,SF,42.0,13.3,PERI-D,faded:Driver/Glue/Passer
+Glue,2,2 S9,Larry Bird,Celtics,SF,21.0,8.53,2WAY GLUE TRADE,faded:Scorer/Shooter/Driver
+Glue,2,2 S9,Rick Barry,,SF,59.0,8.13,GLUE,D<85 faded:Passer
+Glue,2,2 S9,Clyde Drexler,Trail Blazers,SG,47.0,8.02,GLUE,faded:Driver/Fouls/Passer
+Glue,2,2 S9,Charlie Scott,,PG,237.0,7.17,GLUE COMBO,D<85
+Glue,2,2 S9,Jason Kidd,Nets,PG,35.0,6.22,PERI-D GLUE COMBO TRADE,faded:Driver/Fouls/Scoring PG
+Glue,2,2 S7f,Penny Hardaway,Magic,PG,45.0,5.76,COMBO,faded:Driver/Scoring PG/Glue
+Glue,2,2 S9,Alex English,,SF,92.0,5.52,GLUE,D<85 faded:Driver
+Glue,2,2 S9,Brandon Roy,Trail Blazers,SG,79.0,5.44,GLUE COMBO,D<85 faded:Driver
+Glue,2,2 S8,Derrick White,,SG,229.0,5.41,PERI-D GLUE PG COMBO,faded:Fouls
+Glue,2,2 S9,Dominique Wilkins,Hawks,SF,100.0,5.01,GLUE,D<85 faded:Driver
+Glue,2,2 S9,Ron Artest,,SF,72.0,4.7,PERI-D GLUE TRADE,
+Glue,2,2 S9,Jaren Jackson Jr.,Grizzlies,PF,150.0,4.59,INT-D GLUE STRETCH4,
+Glue,2,2 S8f,Gary Payton,Thunder,PG,60.0,4.35,PERI-D COMBO TRADE,faded:Scoring PG/Glue
+Glue,2,2 S9,Kirk Hinrich,,PG,245.0,3.9,GLUE COMBO,
+Glue,2,2 S7f,Dennis Johnson,Suns,PG,86.0,3.86,PERI-D COMBO TRADE,faded:Driver/Fouls/Glue
+Glue,2,2 S9,Doug Christie,Raptors,SG,,3.8,GLUE,
+Glue,2,2 S8f,Richie Guerin,,SG,136.0,3.78,COMBO,faded:Driver/Fouls/Scoring PG
+Glue,2,2 S8f,Eddie Jones,Hornets,SG,80.0,3.23,TRADE,faded:Glue
+Glue,2,2 S9,David Thompson,,SG,129.0,3.2,GLUE,
+Glue,2,2 S9,Draymond Green,Warriors,PF,102.0,3.1,INT-D GLUE,
+Glue,2,2 S9,Mikal Bridges,,SG,235.0,2.93,GLUE,
+Glue,2,2 S8f,Micheal Ray Richardson,,PG,105.0,2.69,PERI-D COMBO,faded:Fouls/Glue/Passer
+Glue,2,2 S8f,Don Buse,,PG,189.0,2.42,COMBO,faded:Driver/Fouls/Glue
+Glue,2,2 S7f,Derek Harper,Mavericks,PG,216.0,2.36,COMBO,faded:Glue/Passer
+Glue,2,2 S8f,Glenn Robinson,Bucks,SF,97.0,1.02,,D<85 faded:Shooter/Glue/Passer
+Glue,2,2 S9,Doug Collins,,SG,196.0,0.95,GLUE,D<85 faded:Shooter/Combo G
+Glue,2,2 S7f,Adrian Dantley,,SF,203.0,0.69,,D<85 faded:Driver/Fouls/Glue
+Glue,2,2 S7f,Andrei Kirilenko,,PF,92.0,0.56,,D<85 faded:Glue/Stretch 4/5/Roller
+Glue,2,2 S9,Scottie Barnes,,PF,173.0,0.42,GLUE,D<85 faded:Passer
+Glue,2,2 S9,Chuck Person,,SF,154.0,0.34,GLUE,D<85 faded:Shooter
+Glue,2,2 S8,Tom Chambers,,PF,,-0.08,GLUE,D<85
+Glue,2,2 S7f,Ben Simmons,,PG,126.0,-0.15,,D<85 faded:Combo G/Glue
+Int D,1,1,Giannis Antetokounmpo,,PF,5.0,22.26,INT-D 2WAY GLUE ROLLER,
+Int D,1,1,Kareem Abdul-Jabbar,Bucks,C,3.0,16.97,INT-D ROLLER TRADE,
+Int D,1,1,Hakeem Olajuwon,Rockets,C,20.0,14.34,INT-D ROLLER TRADE,
+Int D,1,1,Tim Duncan,Spurs,PF,36.0,13.72,INT-D GLUE ROLLER TRADE,
+Int D,1,1,Wilt Chamberlain,Warriors,C,10.0,12.8,INT-D ROLLER TRADE,
+Int D,1,1,Karl Malone,Jazz,PF,73.0,12.63,INT-D GLUE ROLLER TRADE,
+Int D,1,1,Shaquille O'Neal,Lakers,C,9.0,12.59,INT-D ROLLER TRADE,
+Int D,1,1,Victor Wembanyama,,C,10.0,11.81,INT-D STRETCH4 TRADE,
+Int D,1,1,Dolph Schayes,,PF,54.0,11.45,INT-D GLUE STRETCH4 ROLLER TRADE,faded:Passer
+Int D,1,1,Kevin Garnett,2003-04 Timberwolves,PF,25.0,11.25,INT-D,
+Int D,1,1,Dwight Howard,,C,45.0,10.98,INT-D ROLLER TRADE,
+Int D,1,1,Artis Gilmore,Bulls,C,64.0,10.55,INT-D ROLLER TRADE,
+Int D,1,1,Yao Ming,Rockets,C,144.0,10.08,INT-D ROLLER TRADE,
+Int D,1,1,Mel Daniels,,C,149.0,10.04,INT-D ROLLER,
+Int D,1,1,Patrick Ewing,Knicks,C,36.0,9.75,INT-D ROLLER TRADE,
+Int D,1,1,Moses Malone,76ers,C,50.0,9.57,INT-D ROLLER TRADE,
+Int D,1,1,DeAndre Jordan,2013-14 Clippers,C,157.0,9.43,INT-D ROLLER TRADE,
+Int D,1,1,Joel Embiid,76ers,C,62.0,9.43,INT-D STRETCH4 TRADE,faded:Fouls
+Int D,1,1,Tyson Chandler,2011-12 Knicks,C,189.0,9.32,INT-D ROLLER TRADE,
+Int D,1,1,Elvin Hayes,Wizards,PF,110.0,8.85,INT-D GLUE ROLLER TRADE,
+Int D,1,1,David Robinson,Spurs,C,65.0,8.84,INT-D ROLLER TRADE,
+Int D,1,1,Robert Parish,Celtics,C,117.0,8.79,INT-D ROLLER TRADE,
+Int D,1,1,Anthony Davis,Lakers,C,51.0,8.75,INT-D ROLLER TRADE,
+Int D,1,1,Bill Walton,Trail Blazers,C,68.0,8.63,INT-D ROLLER TRADE,
+Int D,1,1,Rudy Gobert,Jazz,C,150.0,8.57,INT-D ROLLER TRADE,
+Int D,1,1,Mark Eaton,,C,96.0,8.52,INT-D ROLLER TRADE,
+Int D,1,1,Dikembe Mutombo,Hawks,C,67.0,7.93,INT-D ROLLER TRADE,
+Int D,1,1,Alonzo Mourning,Heat,C,77.0,7.77,INT-D ROLLER TRADE,
+Int D,1,1,Pau Gasol,Grizzlies,C,104.0,7.68,INT-D ROLLER TRADE,
+Int D,1,1,Kevin McHale,Celtics,PF,130.0,7.29,INT-D ROLLER TRADE,
+Int D,1,1,Nate Thurmond,,C,84.0,6.97,INT-D ROLLER TRADE,
+Int D,1,1,Josh Smith,,PF,137.0,6.5,INT-D 2WAY GLUE,
+Int D,1,1,George Mikan,,C,119.0,5.96,INT-D ROLLER TRADE,
+Int D,1,1,Dave Cowens,,C,103.0,5.91,INT-D ROLLER TRADE,
+Int D,1,1,Joakim Noah,Bulls,C,159.0,5.64,INT-D ROLLER TRADE,
+Int D,1,1,Marc Gasol,Grizzlies,C,106.0,5.05,INT-D ROLLER TRADE,
+Int D,1,1,Evan Mobley,Cavaliers,PF,116.0,4.85,INT-D ROLLER,
+Int D,1,1,Jaren Jackson Jr.,Grizzlies,PF,150.0,4.59,INT-D GLUE STRETCH4,
+Int D,1,1,Marcus Camby,2007-08 Nuggets,C,182.0,4.05,INT-D ROLLER TRADE,
+Int D,1,1,Willis Reed,Knicks,C,100.0,4.04,INT-D ROLLER TRADE,
+Int D,1,1,Bam Adebayo,,C,201.0,3.9,INT-D 2WAY ROLLER,
+Int D,1,1,Jack Sikma,,C,190.0,3.3,INT-D ROLLER TRADE,
+Int D,1,1,Dennis Rodman,Bulls,PF,149.0,3.3,INT-D ROLLER,
+Int D,1,1,P.J. Brown,1996-97 Heat,C,239.0,3.2,INT-D ROLLER TRADE,
+Int D,1,1,Draymond Green,Warriors,PF,102.0,3.1,INT-D GLUE,
+Int D,1,1,Ben Wallace,2003-04 Pistons,C,173.0,3.1,INT-D ROLLER,
+Int D,1,1,Maurice Lucas,,PF,193.0,3.06,INT-D,
+Int D,1,1,Al Horford,Hawks,C,,2.4,INT-D TRADE,
+Int D,1,1,Larry Nance,Suns,SF,203.0,2.0,INT-D 2WAY,
+Int D,1,1,Bobby Jones,,SF,189.0,2.0,PERI-D INT-D 2WAY,
+Int D,1,1,Serge Ibaka,,C,193.0,0.4,INT-D TRADE,no S7-9 mins
+Int D,1,1,Roy Hibbert,Pacers,C,280.0,0.4,INT-D TRADE,no S7-9 mins
+Int D,1,1,Ivica Zubac,,C,218.0,0.4,INT-D TRADE,no S7-9 mins
+Int D,1,1,Tom Heinsohn,,PF,268.0,0.1,INT-D,no S7-9 mins
+Int D,1,1,Charles Oakley,Knicks,PF,,0.1,INT-D,no S7-9 mins
+Int D,1,1,Dave Debusschere,,PF,116.0,0.1,INT-D,no S7-9 mins
+Int D,1,1,Horace Grant,Bulls,PF,,0.1,INT-D,no S7-9 mins
+Int D,1,1,Buck Williams,,PF,,-0.1,INT-D,no S7-9 mins
+Int D,2,2,Bob McAdoo,,C,83.0,12.61,DRIVER,faded:Roller
+Int D,2,2,Jalen Duren,,C,212.0,8.36,ROLLER,
+Int D,2,2,Hassan Whiteside,,C,205.0,7.45,ROLLER,
+Int D,2,2,Jarrett Allen,,C,,7.04,ROLLER,
+Int D,2,2,Dan Issel,,PF,194.0,6.99,GLUE ROLLER,
+Int D,2,2,Elgin Baylor,Lakers,SF,53.0,5.99,TRADE,faded:Driver/Glue
+Int D,2,2,James Worthy,Lakers,SF,85.0,2.79,2WAY,faded:Fouls/Glue
+Int D,2,2,Toumani Camara,,PF,,2.5,2WAY,
+Int D,2,2,Rony Seikaly,,C,213.0,2.5,ROLLER,
+Int D,2,2,Jerry Lucas,Kings,PF,113.0,2.12,TRADE,faded:Stretch 4/5
+Int D,2,2,Ausar Thompson,,SF,,2.0,2WAY,
+Int D,2,2,Tree Rollins,,C,,-0.3,,no S7-9 mins
+Int D,2,2,Bill Laimbeer,Pistons,C,,-0.4,,no S7-9 mins
+Int D,2,2,Shawn Bradley,,C,,-0.4,,no S7-9 mins
+Int D,2,2,Antonio Davis,Raptors,C,,-0.6,,no S7-9 mins
+Int D,2,2,Myles Turner,,C,,-0.6,,no S7-9 mins
+Int D,2,2,George McGinnis,Pacers,PF,,-0.7,,no S7-9 mins
+Passer,1,1 S9,LeBron James,Heat,SF,3.0,30.08,TAKEOVER PERI-D GLUE TRADE,
+Passer,1,1 S9,Gilbert Arenas,,PG,29.0,29.82,TAKEOVER SHOOTER DRIVER PG COMBO,D<85
+Passer,1,1 S9,Shai Gilgeous-Alexander,,PG,7.0,27.21,TAKEOVER DRIVER PG COMBO,faded:Shooter/Glue
+Passer,1,1 S9,Oscar Robertson,Kings,PG,7.0,26.14,DRIVER GLUE PG COMBO,
+Passer,1,1 S7f,Kobe Bryant,Lakers,SG,6.0,22.83,TAKEOVER PERI-D,faded:Shooter/Driver/Fouls
+Passer,1,1 S9,Giannis Antetokounmpo,,PF,5.0,22.26,INT-D 2WAY GLUE ROLLER,
+Passer,1,1 S9,LaMelo Ball,,PG,228.0,21.84,SHOOTER PG COMBO,D<85
+Passer,1,1 S9,Derrick Rose,Bulls,PG,24.0,21.79,TAKEOVER DRIVER PG COMBO,D<85
+Passer,1,1 S9,Michael Jordan,Bulls,SG,2.0,19.21,DRIVER PERI-D,faded:Takeover/Combo G/Glue
+Passer,1,1 S9,Magic Johnson,Lakers,PG,8.0,18.04,DRIVER 2WAY GLUE COMBO,
+Passer,1,1 S9,Damian Lillard,Trail Blazers,PG,113.0,17.97,SHOOTER PG COMBO,D<85 faded:Driver
+Passer,1,1 S9,James Harden,Rockets,SG,33.0,17.21,PG COMBO,D<85 faded:Takeover/Driver
+Passer,1,1 S9,Dwyane Wade,Heat,SG,13.0,14.55,COMBO,faded:Takeover/Scorer
+Passer,1,1 S9,Russell Westbrook,Thunder,PG,63.0,13.63,DRIVER PG COMBO,D<85 faded:Takeover/Scorer
+Passer,1,1 S7f,Paul George,Pacers,SF,42.0,13.3,PERI-D,faded:Driver/Glue/Passer
+Passer,1,1 S9,Luka Doncic,,PG,40.0,11.93,COMBO,D<85 faded:Driver/Fouls/Scoring PG
+Passer,1,1 S8,Kyrie Irving,Cavaliers,PG,87.0,11.89,COMBO,D<85 faded:Takeover/Scorer/Shooter
+Passer,1,1 S9,Jerry West,Lakers,PG,28.0,11.86,PERI-D PG COMBO,faded:Shooter/Driver
+Passer,1,1 S9,Nate Archibald,,PG,174.0,11.13,DRIVER COMBO,D<85 <6'2
+Passer,1,1 S9,Walt Frazier,Knicks,PG,33.0,10.73,DRIVER PERI-D COMBO TRADE,faded:Glue
+Passer,1,1 S7,Nikola Jokic,,C,18.0,10.68,DRIVER,D<85 faded:Fouls
+Passer,1,1 S9,Scottie Pippen,Bulls,SF,18.0,10.68,PERI-D GLUE TRADE,faded:Fouls
+Passer,1,1 S9,Grant Hill,Pistons,SF,48.0,10.31,,faded:Takeover/Scorer/Driver
+Passer,1,1 S9,Tony Parker,Spurs,PG,72.0,9.88,DRIVER COMBO,D<85 faded:Scoring PG
+Passer,1,1 S9,Dave Bing,,PG,186.0,9.74,PG COMBO,D<85
+Passer,1,1 S9,Baron Davis,Pelicans,PG,75.0,9.73,PG COMBO,faded:Driver/Fouls
+Passer,1,1 S9,Jamal Murray,,PG,225.0,9.32,PG COMBO,D<85
+Passer,1,1 S9,Fred Brown,,PG,157.0,9.1,PG COMBO,D<85 faded:Scorer/Driver
+Passer,1,1 S9,Jalen Brunson,,PG,130.0,8.9,PG COMBO,D<85 faded:Scorer/Driver
+Passer,1,1 S8,Allen Iverson,76ers,SG,45.0,8.52,DRIVER COMBO,<6'2 faded:Scorer/Scoring PG
+Passer,1,1 S9,Tyrese Haliburton,,PG,78.0,8.39,PG COMBO,D<85
+Passer,1,1 S9,Gail Goodrich,,SG,157.0,8.02,SHOOTER COMBO,<6'2
+Passer,1,1 S9,Tim Hardaway,Warriors,PG,179.0,7.93,PG COMBO,<6'2
+Passer,1,1 S9,Charlie Scott,,PG,237.0,7.17,GLUE COMBO,D<85
+Passer,1,1 S9,Joe Dumars,Pistons,SG,58.0,6.71,PERI-D PG COMBO,faded:Shooter/Driver/Fouls
+Passer,1,1 S9,Jason Kidd,Nets,PG,35.0,6.22,PERI-D GLUE COMBO TRADE,faded:Driver/Fouls/Scoring PG
+Passer,1,1 S9,Jo Jo White,,PG,143.0,6.1,COMBO,faded:Driver/Fouls/Scoring PG
+Passer,1,1 S9,Penny Hardaway,Magic,PG,45.0,5.76,COMBO,faded:Driver/Scoring PG/Glue
+Passer,1,1 S9,Earl Monroe,Wizards,PG,,5.58,COMBO,D<85
+Passer,1,1 S9,Alex English,,SF,92.0,5.52,GLUE,D<85 faded:Driver
+Passer,1,1 S8,Steve Francis,,PG,174.0,5.5,PG COMBO,D<85
+Passer,1,1 S9,Brandon Roy,Trail Blazers,SG,79.0,5.44,GLUE COMBO,D<85 faded:Driver
+Passer,1,1 S9,Bob Cousy,,PG,75.0,4.97,PG COMBO TRADE,<6'2 faded:Fouls
+Passer,1,1 S9,John Starks,,SG,187.0,4.83,PERI-D COMBO,
+Passer,1,1 S8,George Gervin,Spurs,SF,112.0,4.8,,faded:Driver/Fouls/Glue
+Passer,1,1 S9,Cade Cunningham,,PG,78.0,4.36,PG COMBO,D<85
+Passer,1,1 S8,Gary Payton,Thunder,PG,60.0,4.35,PERI-D COMBO TRADE,faded:Scoring PG/Glue
+Passer,1,1 S9,Kirk Hinrich,,PG,245.0,3.9,GLUE COMBO,
+Passer,1,1 S7f,Dennis Johnson,Suns,PG,86.0,3.86,PERI-D COMBO TRADE,faded:Driver/Fouls/Glue
+Passer,1,1 S8,Don Ohl,,PG,230.0,3.78,PG COMBO,D<85
+Passer,1,1 S8,Richie Guerin,,SG,136.0,3.78,COMBO,faded:Driver/Fouls/Scoring PG
+Passer,1,1 S9,Chauncey Billups,Pistons,PG,83.0,3.74,PERI-D COMBO,faded:Scoring PG
+Passer,1,1 S9,World B. Free,Clippers,PG,264.0,3.73,COMBO,D<85
+Passer,1,1 S9,Steve Nash,Suns,PG,59.0,3.69,PG COMBO,D<85
+Passer,1,1 S8,Chris Paul,,PG,39.0,3.62,COMBO TRADE,<6'2 faded:Driver/Fouls/Scoring PG
+Passer,1,1 S9,David Thompson,,SG,129.0,3.2,GLUE,
+Passer,1,1 S9,John Wall,,PG,109.0,2.4,COMBO,
+Passer,1,1 S7f,Derek Harper,Mavericks,PG,216.0,2.36,COMBO,faded:Glue/Passer
+Passer,1,1 S8f,John Stockton,Jazz,PG,43.0,2.23,PERI-D COMBO TRADE,<6'2 faded:Scoring PG/Passer
+Passer,1,1 S8f,Paul Arizin,,SF,70.0,2.22,TRADE,faded:Shooter/Fouls/Passer
+Passer,1,1 S8,Mark Price,Cavaliers,PG,193.0,1.53,COMBO,D<85 <6'2
+Passer,1,1 S9,Ja Morant,Grizzlies,PG,71.0,0.9,COMBO,D<85
+Passer,1,1 S8,Manu Ginobili,Spurs,SG,162.0,0.77,COMBO,D<85 faded:Fouls
+Passer,1,1 S9,Adrian Dantley,,SF,203.0,0.69,,D<85 faded:Driver/Fouls/Glue
+Passer,2,2 S8f,Stephen Curry,Warriors,PG,21.0,26.04,TAKEOVER SHOOTER,D<85 faded:Combo G/Passer
+Passer,2,2 S8f,Tracy McGrady,Magic,SG,46.0,25.05,TAKEOVER SHOOTER GLUE,D<85 faded:Driver/Fouls/Combo G
+Passer,2,2 S9,Jayson Tatum,,PF,22.0,24.96,TAKEOVER GLUE STRETCH4,
+Passer,2,2 S9,Vince Carter,Raptors,SF,21.0,22.75,TAKEOVER DRIVER,D<85 faded:Shooter/Glue
+Passer,2,2 S9,Kawhi Leonard,Raptors,SF,14.0,22.72,DRIVER PERI-D TRADE,faded:Glue
+Passer,2,2 S9,Anthony Edwards,,SG,40.0,20.9,TAKEOVER,faded:Shooter
+Passer,2,2 S9,John Havlicek,,SF,15.0,19.24,SHOOTER PERI-D GLUE TRADE,
+Passer,2,2 S8f,Dolph Schayes,,PF,54.0,11.45,INT-D GLUE STRETCH4 ROLLER TRADE,faded:Passer
+Passer,2,2 S9,Pete Maravich,Jazz,SG,77.0,10.34,COMBO,D<85 faded:Shooter
+Passer,2,2 S9,Larry Bird,Celtics,SF,21.0,8.53,2WAY GLUE TRADE,faded:Scorer/Shooter/Driver
+Passer,2,2 S8f,Rick Barry,,SF,59.0,8.13,GLUE,D<85 faded:Passer
+Passer,2,2 S8f,Clyde Drexler,Trail Blazers,SG,47.0,8.02,GLUE,faded:Driver/Fouls/Passer
+Passer,2,2 S9,Kyle Lowry,Raptors,PG,244.0,6.11,PG COMBO,<6'2
+Passer,2,2 S9,Elgin Baylor,Lakers,SF,53.0,5.99,TRADE,faded:Driver/Glue
+Passer,2,2 S8,Derrick White,,SG,229.0,5.41,PERI-D GLUE PG COMBO,faded:Fouls
+Passer,2,2 S9,Doug Christie,Raptors,SG,,3.8,GLUE,
+Passer,2,2 S9,Mikal Bridges,,SG,235.0,2.93,GLUE,
+Passer,2,2 S8f,Sidney Moncrief,Bucks,SG,100.0,2.87,PERI-D COMBO TRADE,faded:Driver/Fouls/Passer
+Passer,2,2 S8f,Allan Houston,Knicks,SG,92.0,2.75,SHOOTER,D<85 faded:Passer
+Passer,2,2 S7f,Micheal Ray Richardson,,PG,105.0,2.69,PERI-D COMBO,faded:Fouls/Glue/Passer
+Passer,2,2 S7f,Don Buse,,PG,189.0,2.42,COMBO,faded:Driver/Fouls/Glue
+Passer,2,2 S8f,Ron Harper,,PG,201.0,2.4,PERI-D COMBO,faded:Glue/Passer
+Passer,2,2 S9,Donovan Mitchell,,SG,95.0,2.26,COMBO,D<85 faded:Scorer/Shooter/Driver
+Passer,2,2 S8,Jalen Suggs,,PG,218.0,2.05,COMBO,
+Passer,2,2 S7,Mike Conley,Grizzlies,PG,245.0,1.95,PG COMBO,<6'2
+Passer,2,2 S9,Jaylen Brown,,SF,60.0,1.86,,faded:Shooter/Fouls
+Passer,2,2 S9,Isiah Thomas,Pistons,PG,86.0,1.38,COMBO,<6'2 faded:Driver/Fouls
+Passer,2,2 S7f,Rajon Rondo,Celtics,PG,207.0,1.11,PERI-D COMBO,<6'2 faded:Passer
+Passer,2,2 S8,Geoff Petrie,,SG,246.0,1.08,PG COMBO,D<85
+Passer,2,2 S8f,Glenn Robinson,Bucks,SF,97.0,1.02,,D<85 faded:Shooter/Glue/Passer
+Passer,2,2 S9,Doug Collins,,SG,196.0,0.95,GLUE,D<85 faded:Shooter/Combo G
+Passer,2,2 S7f,Marques Johnson,,SF,127.0,0.63,,faded:Fouls/Passer
+Passer,2,2 S8f,Dick Van Arsdale,,SG,148.0,0.42,,faded:Passer
+Passer,2,2 S7f,Scottie Barnes,,PF,173.0,0.42,GLUE,D<85 faded:Passer
+Passer,2,2 S9,Ben Simmons,,PG,126.0,-0.15,,D<85 faded:Combo G/Glue
+Passer,2,2 S8,Dejounte Murray,,PG,,-0.29,COMBO,D<85
+Passer,2,2 S8,Lou Hudson,,SF,176.0,-0.46,,D<85
+Passer,2,2 S9,Gordon Hayward,,SF,148.0,-0.8,,D<85
+Passer,2,2 S9,Joe Johnson,,SF,198.0,-0.8,,D<85
+Peri D,1,1,LeBron James,Heat,SF,3.0,30.08,TAKEOVER PERI-D GLUE TRADE,
+Peri D,1,1,Kobe Bryant,Lakers,SG,6.0,22.83,TAKEOVER PERI-D,faded:Shooter/Driver/Fouls
+Peri D,1,1,Kawhi Leonard,Raptors,SF,14.0,22.72,DRIVER PERI-D TRADE,faded:Glue
+Peri D,1,1,John Havlicek,,SF,15.0,19.24,SHOOTER PERI-D GLUE TRADE,
+Peri D,1,1,Michael Jordan,Bulls,SG,2.0,19.21,DRIVER PERI-D,faded:Takeover/Combo G/Glue
+Peri D,1,1,Paul George,Pacers,SF,42.0,13.3,PERI-D,faded:Driver/Glue/Passer
+Peri D,1,1,Jerry West,Lakers,PG,28.0,11.86,PERI-D PG COMBO,faded:Shooter/Driver
+Peri D,1,1,Walt Frazier,Knicks,PG,33.0,10.73,DRIVER PERI-D COMBO TRADE,faded:Glue
+Peri D,1,1,Scottie Pippen,Bulls,SF,18.0,10.68,PERI-D GLUE TRADE,faded:Fouls
+Peri D,1,1,Klay Thompson,Warriors,SG,32.0,8.96,SHOOTER PERI-D,faded:Takeover/Scorer
+Peri D,1,1,Joe Dumars,Pistons,SG,58.0,6.71,PERI-D PG COMBO,faded:Shooter/Driver/Fouls
+Peri D,1,1,Jason Kidd,Nets,PG,35.0,6.22,PERI-D GLUE COMBO TRADE,faded:Driver/Fouls/Scoring PG
+Peri D,1,1,Derrick White,,SG,229.0,5.41,PERI-D GLUE PG COMBO,faded:Fouls
+Peri D,1,1,John Starks,,SG,187.0,4.83,PERI-D COMBO,
+Peri D,1,1,Ron Artest,,SF,72.0,4.7,PERI-D GLUE TRADE,
+Peri D,1,1,Gary Payton,Thunder,PG,60.0,4.35,PERI-D COMBO TRADE,faded:Scoring PG/Glue
+Peri D,1,1,Dennis Johnson,Suns,PG,86.0,3.86,PERI-D COMBO TRADE,faded:Driver/Fouls/Glue
+Peri D,1,1,Chauncey Billups,Pistons,PG,83.0,3.74,PERI-D COMBO,faded:Scoring PG
+Peri D,1,1,Sidney Moncrief,Bucks,SG,100.0,2.87,PERI-D COMBO TRADE,faded:Driver/Fouls/Passer
+Peri D,1,1,Micheal Ray Richardson,,PG,105.0,2.69,PERI-D COMBO,faded:Fouls/Glue/Passer
+Peri D,1,1,Ron Harper,,PG,201.0,2.4,PERI-D COMBO,faded:Glue/Passer
+Peri D,1,1,John Stockton,Jazz,PG,43.0,2.23,PERI-D COMBO TRADE,<6'2 faded:Scoring PG/Passer
+Peri D,1,1,Bobby Jones,,SF,189.0,2.0,PERI-D INT-D 2WAY,
+Peri D,1,1,Amen Thompson,,SG,187.0,2.0,PERI-D,
+Peri D,1,1,Jalen Williams,Thunder,SF,105.0,1.6,PERI-D,
+Peri D,1,1,Luguentz Dort,,SG,,1.5,PERI-D,
+Peri D,1,1,Jerry Sloan,,SG,132.0,1.42,PERI-D,faded:Fouls
+Peri D,1,1,Tony Allen,,SG,240.0,1.41,PERI-D,faded:Combo G
+Peri D,1,1,Joe Caldwell,,SG,251.0,1.3,PERI-D,
+Peri D,1,1,Bruce Bowen,Spurs,SF,123.0,1.3,PERI-D,
+Peri D,1,1,Michael Cooper,Lakers,SG,202.0,1.2,PERI-D,
+Peri D,1,1,Rajon Rondo,Celtics,PG,207.0,1.11,PERI-D COMBO,<6'2 faded:Passer
+Peri D,1,1,Paul Pressey,1984-85 Bucks,SG,282.0,1.1,PERI-D,
+Peri D,1,1,Danny Green,2013-14 Spurs,SG,,0.4,PERI-D TRADE,no S7-9 mins
+Peri D,1,1,Jrue Holiday,Pelicans,SG,215.0,0.3,PERI-D,no S7-9 mins
+Peri D,1,1,Dyson Daniels,,SG,,0.3,PERI-D,no S7-9 mins
+Peri D,1,1,Herbert Jones,,SF,,0.1,PERI-D,no S7-9 mins
+Peri D,1,1,Maurice Cheeks,,PG,,-0.6,PERI-D,<6'2 no S7-9 mins
+Peri D,2,2,Oscar Robertson,Kings,PG,7.0,26.14,DRIVER GLUE PG COMBO,
+Peri D,2,2,Jayson Tatum,,PF,22.0,24.96,TAKEOVER GLUE STRETCH4,
+Peri D,2,2,Giannis Antetokounmpo,,PF,5.0,22.26,INT-D 2WAY GLUE ROLLER,
+Peri D,2,2,Anthony Edwards,,SG,40.0,20.9,TAKEOVER,faded:Shooter
+Peri D,2,2,Dwyane Wade,Heat,SG,13.0,14.55,COMBO,faded:Takeover/Scorer
+Peri D,2,2,Julius Erving,Nets,SF,29.0,12.39,,faded:Takeover/Scorer
+Peri D,2,2,Grant Hill,Pistons,SF,48.0,10.31,,faded:Takeover/Scorer/Driver
+Peri D,2,2,Allen Iverson,76ers,SG,45.0,8.52,DRIVER COMBO,<6'2 faded:Scorer/Scoring PG
+Peri D,2,2,Tim Hardaway,Warriors,PG,179.0,7.93,PG COMBO,<6'2
+Peri D,2,2,Jo Jo White,,PG,143.0,6.1,COMBO,faded:Driver/Fouls/Scoring PG
+Peri D,2,2,Elgin Baylor,Lakers,SF,53.0,5.99,TRADE,faded:Driver/Glue
+Peri D,2,2,Bob Cousy,,PG,75.0,4.97,PG COMBO TRADE,<6'2 faded:Fouls
+Peri D,2,2,Fat Lever,,PG,139.0,4.29,COMBO,
+Peri D,2,2,Paul Pierce,Celtics,SF,64.0,3.91,,
+Peri D,2,2,Richie Guerin,,SG,136.0,3.78,COMBO,faded:Driver/Fouls/Scoring PG
+Peri D,2,2,Chris Paul,,PG,39.0,3.62,COMBO TRADE,<6'2 faded:Driver/Fouls/Scoring PG
+Peri D,2,2,Eddie Jones,Hornets,SG,80.0,3.23,TRADE,faded:Glue
+Peri D,2,2,Jimmy Butler,Heat,SF,93.0,3.18,,
+Peri D,2,2,Mikal Bridges,,SG,235.0,2.93,GLUE,
+Peri D,2,2,Toumani Camara,,PF,,2.5,2WAY,
+Peri D,2,2,Don Buse,,PG,189.0,2.42,COMBO,faded:Driver/Fouls/Glue
+Peri D,2,2,Derek Harper,Mavericks,PG,216.0,2.36,COMBO,faded:Glue/Passer
+Peri D,2,2,Paul Arizin,,SF,70.0,2.22,TRADE,faded:Shooter/Fouls/Passer
+Peri D,2,2,Jalen Suggs,,PG,218.0,2.05,COMBO,
+Peri D,2,2,Larry Nance,Suns,SF,203.0,2.0,INT-D 2WAY,
+Peri D,2,2,Gerald Wallace,,SF,116.0,2.0,2WAY,
+Peri D,2,2,Ausar Thompson,,SF,,2.0,2WAY,
+Peri D,2,2,Mike Conley,Grizzlies,PG,245.0,1.95,PG COMBO,<6'2
+Peri D,2,2,Jaylen Brown,,SF,60.0,1.86,,faded:Shooter/Fouls
+Peri D,2,2,Jaden McDaniels,,SF,210.0,1.5,,
+Peri D,2,2,OG Anunoby,,SF,159.0,1.4,,
+Peri D,2,2,Richard Hamilton,Pistons,SG,120.0,1.27,,
+Peri D,2,2,Alex Caruso,,SF,248.0,0.9,,
+Peri D,2,2,Shane Battier,Grizzlies,SF,155.0,0.7,,
+Peri D,2,2,Luol Deng,,SF,245.0,0.7,,
+Peri D,2,2,Cason Wallace,,SG,,0.6,,
+Peri D,2,2,Dan Majerle,,SG,167.0,0.4,,
+Peri D,2,2,Ron Holland,,PF,,0.2,,no S7-9 mins
+Peri D,2,2,Dillon Brooks,,PF,,-0.2,,no S7-9 mins
+Peri D,2,2,Hal Greer,,PG,265.0,-0.3,,no S7-9 mins
+Peri D,2,2,Eric Snow,,PG,,-0.3,,no S7-9 mins
+Peri D,2,2,Kris Dunn,,SG,,-0.5,,no S7-9 mins
+Peri D,2,2,Andrew Nembhard,,PG,,-0.6,,no S7-9 mins
+Peri D,2,2,Davion Mitchell,,PG,,-1.5,,<6'2 no S7-9 mins
+Roller,1,1 S9,Giannis Antetokounmpo,,PF,5.0,22.26,INT-D 2WAY GLUE ROLLER,
+Roller,1,1 S9,Kareem Abdul-Jabbar,Bucks,C,3.0,16.97,INT-D ROLLER TRADE,
+Roller,1,1 S9,Hakeem Olajuwon,Rockets,C,20.0,14.34,INT-D ROLLER TRADE,
+Roller,1,1 S9,Bob Pettit,,PF,41.0,13.82,SHOOTER GLUE STRETCH4 ROLLER,D<85
+Roller,1,1 S9,Tim Duncan,Spurs,PF,36.0,13.72,INT-D GLUE ROLLER TRADE,
+Roller,1,1 S9,Wilt Chamberlain,Warriors,C,10.0,12.8,INT-D ROLLER TRADE,
+Roller,1,1 S8,Karl Malone,Jazz,PF,73.0,12.63,INT-D GLUE ROLLER TRADE,
+Roller,1,1 S8f,Bob McAdoo,,C,83.0,12.61,DRIVER,faded:Roller
+Roller,1,1 S9,Shaquille O'Neal,Lakers,C,9.0,12.59,INT-D ROLLER TRADE,
+Roller,1,1 S8,Dolph Schayes,,PF,54.0,11.45,INT-D GLUE STRETCH4 ROLLER TRADE,faded:Passer
+Roller,1,1 S9,Jermaine O'Neal,,PF,242.0,11.01,GLUE ROLLER,
+Roller,1,1 S9,Dwight Howard,,C,45.0,10.98,INT-D ROLLER TRADE,
+Roller,1,1 S9,Artis Gilmore,Bulls,C,64.0,10.55,INT-D ROLLER TRADE,
+Roller,1,1 S9,Yao Ming,Rockets,C,144.0,10.08,INT-D ROLLER TRADE,
+Roller,1,1 S9,Mel Daniels,,C,149.0,10.04,INT-D ROLLER,
+Roller,1,1 S9,Patrick Ewing,Knicks,C,36.0,9.75,INT-D ROLLER TRADE,
+Roller,1,1 S9,Moses Malone,76ers,C,50.0,9.57,INT-D ROLLER TRADE,
+Roller,1,1 S9,DeAndre Jordan,2013-14 Clippers,C,157.0,9.43,INT-D ROLLER TRADE,
+Roller,1,1 S9,Tyson Chandler,2011-12 Knicks,C,189.0,9.32,INT-D ROLLER TRADE,
+Roller,1,1 S9,Elvin Hayes,Wizards,PF,110.0,8.85,INT-D GLUE ROLLER TRADE,
+Roller,1,1 S9,David Robinson,Spurs,C,65.0,8.84,INT-D ROLLER TRADE,
+Roller,1,1 S9,Robert Parish,Celtics,C,117.0,8.79,INT-D ROLLER TRADE,
+Roller,1,1 S9,Anthony Davis,Lakers,C,51.0,8.75,INT-D ROLLER TRADE,
+Roller,1,1 S9,Bill Walton,Trail Blazers,C,68.0,8.63,INT-D ROLLER TRADE,
+Roller,1,1 S9,Rudy Gobert,Jazz,C,150.0,8.57,INT-D ROLLER TRADE,
+Roller,1,1 S9,Mark Eaton,,C,96.0,8.52,INT-D ROLLER TRADE,
+Roller,1,1 S9,Jalen Duren,,C,212.0,8.36,ROLLER,
+Roller,1,1 S9,Dikembe Mutombo,Hawks,C,67.0,7.93,INT-D ROLLER TRADE,
+Roller,1,1 S9,Alonzo Mourning,Heat,C,77.0,7.77,INT-D ROLLER TRADE,
+Roller,1,1 S9,Pau Gasol,Grizzlies,C,104.0,7.68,INT-D ROLLER TRADE,
+Roller,1,1 S9,Hassan Whiteside,,C,205.0,7.45,ROLLER,
+Roller,1,1 S9,Kevin McHale,Celtics,PF,130.0,7.29,INT-D ROLLER TRADE,
+Roller,1,1 S9,Jarrett Allen,,C,,7.04,ROLLER,
+Roller,1,1 S9,Dan Issel,,PF,194.0,6.99,GLUE ROLLER,
+Roller,1,1 S8,Rik Smits,,C,190.0,6.97,ROLLER,
+Roller,1,1 S9,Nate Thurmond,,C,84.0,6.97,INT-D ROLLER TRADE,
+Roller,1,1 S9,Ralph Sampson,,C,148.0,6.8,ROLLER,
+Roller,1,1 S9,Alexandre Sarr,,C,248.0,6.37,ROLLER,D<85
+Roller,1,1 S9,George Mikan,,C,119.0,5.96,INT-D ROLLER TRADE,
+Roller,1,1 S8,Dave Cowens,,C,103.0,5.91,INT-D ROLLER TRADE,
+Roller,1,1 S9,Andre Drummond,Pistons,C,141.0,5.83,ROLLER,D<85
+Roller,1,1 S9,Joakim Noah,Bulls,C,159.0,5.64,INT-D ROLLER TRADE,
+Roller,1,1 S9,Bob Lanier,,C,128.0,5.36,ROLLER,
+Roller,1,1 S9,DeMarcus Cousins,Kings,C,177.0,5.05,ROLLER,D<85
+Roller,1,1 S9,Marc Gasol,Grizzlies,C,106.0,5.05,INT-D ROLLER TRADE,
+Roller,1,1 S9,Evan Mobley,Cavaliers,PF,116.0,4.85,INT-D ROLLER,
+Roller,1,1 S9,Wes Unseld,,C,131.0,4.1,ROLLER,
+Roller,1,1 S9,Marcus Camby,2007-08 Nuggets,C,182.0,4.05,INT-D ROLLER TRADE,
+Roller,1,1 S9,Willis Reed,Knicks,C,100.0,4.04,INT-D ROLLER TRADE,
+Roller,1,1 S9,Shawn Kemp,Thunder,PF,227.0,3.95,ROLLER,D<85
+Roller,1,1 S8,Bam Adebayo,,C,201.0,3.9,INT-D 2WAY ROLLER,
+Roller,1,1 S9,Dave DeBusschere,Knicks,PF,,3.83,ROLLER,
+Roller,1,1 S8,Jack Sikma,,C,190.0,3.3,INT-D ROLLER TRADE,
+Roller,1,1 S9,Dennis Rodman,Bulls,PF,149.0,3.3,INT-D ROLLER,
+Roller,1,1 S7,P.J. Brown,1996-97 Heat,C,239.0,3.2,INT-D ROLLER TRADE,
+Roller,1,1 S9,Ben Wallace,2003-04 Pistons,C,173.0,3.1,INT-D ROLLER,
+Roller,1,1 S8f,Karl-Anthony Towns,,C,131.0,2.86,STRETCH4,D<85 faded:Roller
+Roller,1,1 S9,Brook Lopez,Nets,C,262.0,2.63,ROLLER,D<85
+Roller,1,1 S8,Rony Seikaly,,C,213.0,2.5,ROLLER,
+Roller,1,1 S9,Wayne Embry,,C,217.0,2.32,ROLLER,
+Roller,1,1 S9,James Donaldson,,C,155.0,1.19,ROLLER,D<85
+Roller,1,1 S7,Arvydas Sabonis,Trail Blazers,C,181.0,1.1,ROLLER,D<85
+Roller,1,1 S8,Nicolas Claxton,,C,201.0,0.8,ROLLER,D<85
+Roller,1,1 S8,Vlade Divac,Kings,C,228.0,0.4,ROLLER,D<85
+Roller,1,1 S8,Byron Beck,,PF,228.0,0.4,ROLLER,D<85
+Roller,1,1 S8,Walker Kessler,,C,256.0,0.4,ROLLER,D<85
+Roller,1,1 S7,Alperen Sengun,,C,219.0,0.3,ROLLER,D<85
+Roller,1,1 S7,Zydrunas Ilgauskas,Cavaliers,C,238.0,0.3,ROLLER,D<85
+Roller,2,2 S9,Victor Wembanyama,,C,10.0,11.81,INT-D STRETCH4 TRADE,
+Roller,2,2 S9,Nikola Jokic,,C,18.0,10.68,DRIVER,D<85 faded:Fouls
+Roller,2,2 S9,Kevin Love,Timberwolves,PF,125.0,7.03,GLUE STRETCH4,
+Roller,2,2 S9,Josh Smith,,PF,137.0,6.5,INT-D 2WAY GLUE,
+Roller,2,2 S9,Chris Bosh,Raptors,PF,146.0,5.53,,faded:Glue
+Roller,2,2 S9,Chris Webber,Kings,PF,97.0,3.74,,D<85
+Roller,2,2 S9,Maurice Lucas,,PF,193.0,3.06,INT-D,
+Roller,2,2 S9,Al Horford,Hawks,C,,2.4,INT-D TRADE,
+Roller,2,2 S9,Jerry Lucas,Kings,PF,113.0,2.12,TRADE,faded:Stretch 4/5
+Roller,2,2 S8f,Andrei Kirilenko,,PF,92.0,0.56,,D<85 faded:Glue/Stretch 4/5/Roller
+Roller,2,2 S7,Jonathan Isaac,,PF,,-0.1,,D<85
+Roller,2,2 S8,Amar'e Stoudemire,Suns,PF,187.0,-0.35,,D<85
+Roller,2,2 S9,Jalen Johnson,,PF,153.0,-0.5,,D<85
+Roller,2,2 S7,Robert Williams III,,C,,-0.6,,D<85
+Scorer,1,1 S9,Kevin Durant,Thunder,SF,18.0,30.31,TAKEOVER SHOOTER GLUE TRADE,
+Scorer,1,1 S9,LeBron James,Heat,SF,3.0,30.08,TAKEOVER PERI-D GLUE TRADE,
+Scorer,1,1 S9,Gilbert Arenas,,PG,29.0,29.82,TAKEOVER SHOOTER DRIVER PG COMBO,D<85
+Scorer,1,1 S8,Shai Gilgeous-Alexander,,PG,7.0,27.21,TAKEOVER DRIVER PG COMBO,faded:Shooter/Glue
+Scorer,1,1 S9,Carmelo Anthony,,SF,17.0,26.59,TAKEOVER SHOOTER DRIVER,D<85
+Scorer,1,1 S7,Oscar Robertson,Kings,PG,7.0,26.14,DRIVER GLUE PG COMBO,
+Scorer,1,1 S9,Stephen Curry,Warriors,PG,21.0,26.04,TAKEOVER SHOOTER,D<85 faded:Combo G/Passer
+Scorer,1,1 S9,Tracy McGrady,Magic,SG,46.0,25.05,TAKEOVER SHOOTER GLUE,D<85 faded:Driver/Fouls/Combo G
+Scorer,1,1 S9,Kobe Bryant,Lakers,SG,6.0,22.83,TAKEOVER PERI-D,faded:Shooter/Driver/Fouls
+Scorer,1,1 S9,Vince Carter,Raptors,SF,21.0,22.75,TAKEOVER DRIVER,D<85 faded:Shooter/Glue
+Scorer,1,1 S9,LaMelo Ball,,PG,228.0,21.84,SHOOTER PG COMBO,D<85
+Scorer,1,1 S8,Derrick Rose,Bulls,PG,24.0,21.79,TAKEOVER DRIVER PG COMBO,D<85
+Scorer,1,1 S9,Anthony Edwards,,SG,40.0,20.9,TAKEOVER,faded:Shooter
+Scorer,1,1 S7,Michael Jordan,Bulls,SG,2.0,19.21,DRIVER PERI-D,faded:Takeover/Combo G/Glue
+Scorer,1,1 S8,James Harden,Rockets,SG,33.0,17.21,PG COMBO,D<85 faded:Takeover/Driver
+Scorer,1,1 S8f,Dwyane Wade,Heat,SG,13.0,14.55,COMBO,faded:Takeover/Scorer
+Scorer,1,1 S7f,Russell Westbrook,Thunder,PG,63.0,13.63,DRIVER PG COMBO,D<85 faded:Takeover/Scorer
+Scorer,1,1 S9,Devin Booker,,PG,62.0,13.5,,D<85 faded:Takeover/Driver/Combo G
+Scorer,1,1 S7f,Julius Erving,Nets,SF,29.0,12.39,,faded:Takeover/Scorer
+Scorer,1,1 S7f,Donovan Mitchell,,SG,95.0,2.26,COMBO,D<85 faded:Scorer/Shooter/Driver
+Scorer,2,2 S9,Jayson Tatum,,PF,22.0,24.96,TAKEOVER GLUE STRETCH4,
+Scorer,2,2 S9,Kawhi Leonard,Raptors,SF,14.0,22.72,DRIVER PERI-D TRADE,faded:Glue
+Scorer,2,2 S9,Giannis Antetokounmpo,,PF,5.0,22.26,INT-D 2WAY GLUE ROLLER,
+Scorer,2,2 S9,Dirk Nowitzki,Mavericks,PF,24.0,19.43,GLUE STRETCH4,faded:Driver/Fouls
+Scorer,2,2 S9,John Havlicek,,SF,15.0,19.24,SHOOTER PERI-D GLUE TRADE,
+Scorer,2,2 S9,Damian Lillard,Trail Blazers,PG,113.0,17.97,SHOOTER PG COMBO,D<85 faded:Driver
+Scorer,2,2 S9,Kareem Abdul-Jabbar,Bucks,C,3.0,16.97,INT-D ROLLER TRADE,
+Scorer,2,2 S9,Ray Allen,,SG,40.0,14.97,TAKEOVER,
+Scorer,2,2 S9,Paul George,Pacers,SF,42.0,13.3,PERI-D,faded:Driver/Glue/Passer
+Scorer,2,2 S9,Luka Doncic,,PG,40.0,11.93,COMBO,D<85 faded:Driver/Fouls/Scoring PG
+Scorer,2,2 S8f,Kyrie Irving,Cavaliers,PG,87.0,11.89,COMBO,D<85 faded:Takeover/Scorer/Shooter
+Scorer,2,2 S9,Pete Maravich,Jazz,SG,77.0,10.34,COMBO,D<85 faded:Shooter
+Scorer,2,2 S8f,Grant Hill,Pistons,SF,48.0,10.31,,faded:Takeover/Scorer/Driver
+Scorer,2,2 S8f,Mitch Richmond,Kings,SG,42.0,9.73,SHOOTER,D<85 faded:Takeover/Scorer/Fouls
+Scorer,2,2 S7f,Fred Brown,,PG,157.0,9.1,PG COMBO,D<85 faded:Scorer/Driver
+Scorer,2,2 S8f,Klay Thompson,Warriors,SG,32.0,8.96,SHOOTER PERI-D,faded:Takeover/Scorer
+Scorer,2,2 S7f,Jalen Brunson,,PG,130.0,8.9,PG COMBO,D<85 faded:Scorer/Driver
+Scorer,2,2 S8f,Larry Bird,Celtics,SF,21.0,8.53,2WAY GLUE TRADE,faded:Scorer/Shooter/Driver
+Scorer,2,2 S8f,Allen Iverson,76ers,SG,45.0,8.52,DRIVER COMBO,<6'2 faded:Scorer/Scoring PG
+Scorer,2,2 S9,Drazen Petrovic,,SG,171.0,7.73,SHOOTER,D<85
+Scorer,2,2 S7f,Brandon Ingram,,SF,279.0,7.13,DRIVER,D<85 faded:Scorer
+Scorer,2,2 S7f,Jerry Stackhouse,,SG,100.0,3.62,,D<85 faded:Scorer
+Scorer,2,2 S7f,Dell Curry,,SG,157.0,2.6,SHOOTER,D<85 faded:Scorer/Driver/Fouls
+Scoring PG,1,1 S9,Gilbert Arenas,,PG,29.0,29.82,TAKEOVER SHOOTER DRIVER PG COMBO,D<85
+Scoring PG,1,1 S7,Shai Gilgeous-Alexander,,PG,7.0,27.21,TAKEOVER DRIVER PG COMBO,faded:Shooter/Glue
+Scoring PG,1,1 S8,Oscar Robertson,Kings,PG,7.0,26.14,DRIVER GLUE PG COMBO,
+Scoring PG,1,1 S9,LaMelo Ball,,PG,228.0,21.84,SHOOTER PG COMBO,D<85
+Scoring PG,1,1 S9,Derrick Rose,Bulls,PG,24.0,21.79,TAKEOVER DRIVER PG COMBO,D<85
+Scoring PG,1,1 S9,Damian Lillard,Trail Blazers,PG,113.0,17.97,SHOOTER PG COMBO,D<85 faded:Driver
+Scoring PG,1,1 S8,James Harden,Rockets,SG,33.0,17.21,PG COMBO,D<85 faded:Takeover/Driver
+Scoring PG,1,1 S9,Russell Westbrook,Thunder,PG,63.0,13.63,DRIVER PG COMBO,D<85 faded:Takeover/Scorer
+Scoring PG,1,1 S7f,Luka Doncic,,PG,40.0,11.93,COMBO,D<85 faded:Driver/Fouls/Scoring PG
+Scoring PG,1,1 S7f,Kyrie Irving,Cavaliers,PG,87.0,11.89,COMBO,D<85 faded:Takeover/Scorer/Shooter
+Scoring PG,1,1 S7,Jerry West,Lakers,PG,28.0,11.86,PERI-D PG COMBO,faded:Shooter/Driver
+Scoring PG,1,1 S8,Baron Davis,Pelicans,PG,75.0,9.73,PG COMBO,faded:Driver/Fouls
+Scoring PG,1,1 S7,Jalen Brunson,,PG,130.0,8.9,PG COMBO,D<85 faded:Scorer/Driver
+Scoring PG,1,1 S8f,Allen Iverson,76ers,SG,45.0,8.52,DRIVER COMBO,<6'2 faded:Scorer/Scoring PG
+Scoring PG,1,1 S9,Tyrese Haliburton,,PG,78.0,8.39,PG COMBO,D<85
+Scoring PG,1,1 S8,Joe Dumars,Pistons,SG,58.0,6.71,PERI-D PG COMBO,faded:Shooter/Driver/Fouls
+Scoring PG,1,1 S8f,Jo Jo White,,PG,143.0,6.1,COMBO,faded:Driver/Fouls/Scoring PG
+Scoring PG,1,1 S7,Steve Francis,,PG,174.0,5.5,PG COMBO,D<85
+Scoring PG,1,1 S8f,Chris Paul,,PG,39.0,3.62,COMBO TRADE,<6'2 faded:Driver/Fouls/Scoring PG
+Scoring PG,2,2 S7f,Tony Parker,Spurs,PG,72.0,9.88,DRIVER COMBO,D<85 faded:Scoring PG
+Scoring PG,2,2 S9,Dave Bing,,PG,186.0,9.74,PG COMBO,D<85
+Scoring PG,2,2 S9,Jamal Murray,,PG,225.0,9.32,PG COMBO,D<85
+Scoring PG,2,2 S9,Fred Brown,,PG,157.0,9.1,PG COMBO,D<85 faded:Scorer/Driver
+Scoring PG,2,2 S9,Tim Hardaway,Warriors,PG,179.0,7.93,PG COMBO,<6'2
+Scoring PG,2,2 S7f,Jason Kidd,Nets,PG,35.0,6.22,PERI-D GLUE COMBO TRADE,faded:Driver/Fouls/Scoring PG
+Scoring PG,2,2 S9,Kyle Lowry,Raptors,PG,244.0,6.11,PG COMBO,<6'2
+Scoring PG,2,2 S8f,Penny Hardaway,Magic,PG,45.0,5.76,COMBO,faded:Driver/Scoring PG/Glue
+Scoring PG,2,2 S8,Derrick White,,SG,229.0,5.41,PERI-D GLUE PG COMBO,faded:Fouls
+Scoring PG,2,2 S9,Bob Cousy,,PG,75.0,4.97,PG COMBO TRADE,<6'2 faded:Fouls
+Scoring PG,2,2 S9,Cade Cunningham,,PG,78.0,4.36,PG COMBO,D<85
+Scoring PG,2,2 S8f,Gary Payton,Thunder,PG,60.0,4.35,PERI-D COMBO TRADE,faded:Scoring PG/Glue
+Scoring PG,2,2 S8,Don Ohl,,PG,230.0,3.78,PG COMBO,D<85
+Scoring PG,2,2 S8f,Richie Guerin,,SG,136.0,3.78,COMBO,faded:Driver/Fouls/Scoring PG
+Scoring PG,2,2 S8f,Chauncey Billups,Pistons,PG,83.0,3.74,PERI-D COMBO,faded:Scoring PG
+Scoring PG,2,2 S9,Steve Nash,Suns,PG,59.0,3.69,PG COMBO,D<85
+Scoring PG,2,2 S8f,John Stockton,Jazz,PG,43.0,2.23,PERI-D COMBO TRADE,<6'2 faded:Scoring PG/Passer
+Scoring PG,2,2 S7,Mike Conley,Grizzlies,PG,245.0,1.95,PG COMBO,<6'2
+Scoring PG,2,2 S8,Geoff Petrie,,SG,246.0,1.08,PG COMBO,D<85
+Shooter,1,1 S9,Kevin Durant,Thunder,SF,18.0,30.31,TAKEOVER SHOOTER GLUE TRADE,
+Shooter,1,1 S9,Gilbert Arenas,,PG,29.0,29.82,TAKEOVER SHOOTER DRIVER PG COMBO,D<85
+Shooter,1,1 S9,Carmelo Anthony,,SF,17.0,26.59,TAKEOVER SHOOTER DRIVER,D<85
+Shooter,1,1 S9,Stephen Curry,Warriors,PG,21.0,26.04,TAKEOVER SHOOTER,D<85 faded:Combo G/Passer
+Shooter,1,1 S9,Tracy McGrady,Magic,SG,46.0,25.05,TAKEOVER SHOOTER GLUE,D<85 faded:Driver/Fouls/Combo G
+Shooter,1,1 S9,LaMelo Ball,,PG,228.0,21.84,SHOOTER PG COMBO,D<85
+Shooter,1,1 S9,John Havlicek,,SF,15.0,19.24,SHOOTER PERI-D GLUE TRADE,
+Shooter,1,1 S9,Damian Lillard,Trail Blazers,PG,113.0,17.97,SHOOTER PG COMBO,D<85 faded:Driver
+Shooter,1,1 S9,Bob Pettit,,PF,41.0,13.82,SHOOTER GLUE STRETCH4 ROLLER,D<85
+Shooter,1,1 S9,Mitch Richmond,Kings,SG,42.0,9.73,SHOOTER,D<85 faded:Takeover/Scorer/Fouls
+Shooter,1,1 S8,Klay Thompson,Warriors,SG,32.0,8.96,SHOOTER PERI-D,faded:Takeover/Scorer
+Shooter,1,1 S9,Chris Mullin,Warriors,SF,63.0,8.1,SHOOTER TRADE,
+Shooter,1,1 S8,Gail Goodrich,,SG,157.0,8.02,SHOOTER COMBO,<6'2
+Shooter,1,1 S9,Drazen Petrovic,,SG,171.0,7.73,SHOOTER,D<85
+Shooter,1,1 S9,Glen Rice,Hornets,SF,74.0,5.61,SHOOTER,D<85
+Shooter,1,1 S8,Allan Houston,Knicks,SG,92.0,2.75,SHOOTER,D<85 faded:Passer
+Shooter,1,1 S7,Dell Curry,,SG,157.0,2.6,SHOOTER,D<85 faded:Scorer/Driver/Fouls
+Shooter,1,1 S8f,Donovan Mitchell,,SG,95.0,2.26,COMBO,D<85 faded:Scorer/Shooter/Driver
+Shooter,1,1 S8,Brian Winters,,SG,182.0,1.51,SHOOTER,D<85
+Shooter,2,2 S9,LeBron James,Heat,SF,3.0,30.08,TAKEOVER PERI-D GLUE TRADE,
+Shooter,2,2 S7f,Shai Gilgeous-Alexander,,PG,7.0,27.21,TAKEOVER DRIVER PG COMBO,faded:Shooter/Glue
+Shooter,2,2 S9,Jayson Tatum,,PF,22.0,24.96,TAKEOVER GLUE STRETCH4,
+Shooter,2,2 S8f,Kobe Bryant,Lakers,SG,6.0,22.83,TAKEOVER PERI-D,faded:Shooter/Driver/Fouls
+Shooter,2,2 S7f,Vince Carter,Raptors,SF,21.0,22.75,TAKEOVER DRIVER,D<85 faded:Shooter/Glue
+Shooter,2,2 S9,Kawhi Leonard,Raptors,SF,14.0,22.72,DRIVER PERI-D TRADE,faded:Glue
+Shooter,2,2 S8f,Anthony Edwards,,SG,40.0,20.9,TAKEOVER,faded:Shooter
+Shooter,2,2 S9,Dirk Nowitzki,Mavericks,PF,24.0,19.43,GLUE STRETCH4,faded:Driver/Fouls
+Shooter,2,2 S9,Devin Booker,,PG,62.0,13.5,,D<85 faded:Takeover/Driver/Combo G
+Shooter,2,2 S8f,Kyrie Irving,Cavaliers,PG,87.0,11.89,COMBO,D<85 faded:Takeover/Scorer/Shooter
+Shooter,2,2 S8f,Jerry West,Lakers,PG,28.0,11.86,PERI-D PG COMBO,faded:Shooter/Driver
+Shooter,2,2 S7f,Pete Maravich,Jazz,SG,77.0,10.34,COMBO,D<85 faded:Shooter
+Shooter,2,2 S9,Jamal Murray,,PG,225.0,9.32,PG COMBO,D<85
+Shooter,2,2 S9,Fred Brown,,PG,157.0,9.1,PG COMBO,D<85 faded:Scorer/Driver
+Shooter,2,2 S8f,Larry Bird,Celtics,SF,21.0,8.53,2WAY GLUE TRADE,faded:Scorer/Shooter/Driver
+Shooter,2,2 S8f,Joe Dumars,Pistons,SG,58.0,6.71,PERI-D PG COMBO,faded:Shooter/Driver/Fouls
+Shooter,2,2 S9,Kyle Lowry,Raptors,PG,244.0,6.11,PG COMBO,<6'2
+Shooter,2,2 S9,Dale Ellis,,SG,201.0,4.79,,D<85
+Shooter,2,2 S9,Ron Artest,,SF,72.0,4.7,PERI-D GLUE TRADE,
+Shooter,2,2 S9,Doug Christie,Raptors,SG,,3.8,GLUE,
+Shooter,2,2 S9,Eddie Jones,Hornets,SG,80.0,3.23,TRADE,faded:Glue
+Shooter,2,2 S8,Michael Finley,,SF,165.0,3.04,,D<85
+Shooter,2,2 S8f,Paul Arizin,,SF,70.0,2.22,TRADE,faded:Shooter/Fouls/Passer
+Shooter,2,2 S7f,Jaylen Brown,,SF,60.0,1.86,,faded:Shooter/Fouls
+Shooter,2,2 S8,Rashard Lewis,,PF,165.0,1.76,STRETCH4,D<85
+Shooter,2,2 S8,Mark Price,Cavaliers,PG,193.0,1.53,COMBO,D<85 <6'2
+Shooter,2,2 S7f,Glenn Robinson,Bucks,SF,97.0,1.02,,D<85 faded:Shooter/Glue/Passer
+Shooter,2,2 S7f,Doug Collins,,SG,196.0,0.95,GLUE,D<85 faded:Shooter/Combo G
+Shooter,2,2 S9,Michael Redd,,SG,124.0,0.47,,D<85
+Shooter,2,2 S8f,Khris Middleton,Bucks,SF,144.0,0.46,,faded:Shooter
+Shooter,2,2 S8,Bradley Beal,Wizards,SG,199.0,0.39,,D<85
+Shooter,2,2 S7f,Chuck Person,,SF,154.0,0.34,GLUE,D<85 faded:Shooter
+Shooter,2,2 S9,Peja Stojakovic,Kings,SF,170.0,0.2,,D<85
+Shooter,2,2 S8f,Cliff Hagan,,SF,71.0,-0.02,,D<85 faded:Shooter
+Speed,1,1,LeBron James,Heat,SF,3.0,30.08,TAKEOVER PERI-D GLUE TRADE,
+Speed,1,1,Gilbert Arenas,,PG,29.0,29.82,TAKEOVER SHOOTER DRIVER PG COMBO,D<85
+Speed,1,1,Shai Gilgeous-Alexander,,PG,7.0,27.21,TAKEOVER DRIVER PG COMBO,faded:Shooter/Glue
+Speed,1,1,Carmelo Anthony,,SF,17.0,26.59,TAKEOVER SHOOTER DRIVER,D<85
+Speed,1,1,Oscar Robertson,Kings,PG,7.0,26.14,DRIVER GLUE PG COMBO,
+Speed,1,1,Stephen Curry,Warriors,PG,21.0,26.04,TAKEOVER SHOOTER,D<85 faded:Combo G/Passer
+Speed,1,1,Tracy McGrady,Magic,SG,46.0,25.05,TAKEOVER SHOOTER GLUE,D<85 faded:Driver/Fouls/Combo G
+Speed,1,1,Kobe Bryant,Lakers,SG,6.0,22.83,TAKEOVER PERI-D,faded:Shooter/Driver/Fouls
+Speed,1,1,Vince Carter,Raptors,SF,21.0,22.75,TAKEOVER DRIVER,D<85 faded:Shooter/Glue
+Speed,1,1,Giannis Antetokounmpo,,PF,5.0,22.26,INT-D 2WAY GLUE ROLLER,
+Speed,1,1,Derrick Rose,Bulls,PG,24.0,21.79,TAKEOVER DRIVER PG COMBO,D<85
+Speed,1,1,Anthony Edwards,,SG,40.0,20.9,TAKEOVER,faded:Shooter
+Speed,1,1,Magic Johnson,Lakers,PG,8.0,18.04,DRIVER 2WAY GLUE COMBO,
+Speed,1,1,Damian Lillard,Trail Blazers,PG,113.0,17.97,SHOOTER PG COMBO,D<85 faded:Driver
+Speed,1,1,James Harden,Rockets,SG,33.0,17.21,PG COMBO,D<85 faded:Takeover/Driver
+Speed,1,1,Ray Allen,,SG,40.0,14.97,TAKEOVER,
+Speed,1,1,Dwyane Wade,Heat,SG,13.0,14.55,COMBO,faded:Takeover/Scorer
+Speed,1,1,Russell Westbrook,Thunder,PG,63.0,13.63,DRIVER PG COMBO,D<85 faded:Takeover/Scorer
+Speed,1,1,Wilt Chamberlain,Warriors,C,10.0,12.8,INT-D ROLLER TRADE,
+Speed,1,1,Julius Erving,Nets,SF,29.0,12.39,,faded:Takeover/Scorer
+Speed,1,1,Kyrie Irving,Cavaliers,PG,87.0,11.89,COMBO,D<85 faded:Takeover/Scorer/Shooter
+Speed,1,1,Jerry West,Lakers,PG,28.0,11.86,PERI-D PG COMBO,faded:Shooter/Driver
+Speed,1,1,Kevin Garnett,2003-04 Timberwolves,PF,25.0,11.25,INT-D,
+Speed,1,1,Nate Archibald,,PG,174.0,11.13,DRIVER COMBO,D<85 <6'2
+Speed,1,1,Dwight Howard,,C,45.0,10.98,INT-D ROLLER TRADE,
+Speed,1,1,Walt Frazier,Knicks,PG,33.0,10.73,DRIVER PERI-D COMBO TRADE,faded:Glue
+Speed,1,1,Pete Maravich,Jazz,SG,77.0,10.34,COMBO,D<85 faded:Shooter
+Speed,1,1,Grant Hill,Pistons,SF,48.0,10.31,,faded:Takeover/Scorer/Driver
+Speed,1,1,Tony Parker,Spurs,PG,72.0,9.88,DRIVER COMBO,D<85 faded:Scoring PG
+Speed,1,1,Dave Bing,,PG,186.0,9.74,PG COMBO,D<85
+Speed,1,1,Mitch Richmond,Kings,SG,42.0,9.73,SHOOTER,D<85 faded:Takeover/Scorer/Fouls
+Speed,1,1,Baron Davis,Pelicans,PG,75.0,9.73,PG COMBO,faded:Driver/Fouls
+Speed,1,1,Fred Brown,,PG,157.0,9.1,PG COMBO,D<85 faded:Scorer/Driver
+Speed,1,1,Allen Iverson,76ers,SG,45.0,8.52,DRIVER COMBO,<6'2 faded:Scorer/Scoring PG
+Speed,1,1,Rick Barry,,SF,59.0,8.13,GLUE,D<85 faded:Passer
+Speed,1,1,Clyde Drexler,Trail Blazers,SG,47.0,8.02,GLUE,faded:Driver/Fouls/Passer
+Speed,1,1,Tim Hardaway,Warriors,PG,179.0,7.93,PG COMBO,<6'2
+Speed,1,1,Charlie Scott,,PG,237.0,7.17,GLUE COMBO,D<85
+Speed,1,1,Jason Kidd,Nets,PG,35.0,6.22,PERI-D GLUE COMBO TRADE,faded:Driver/Fouls/Scoring PG
+Speed,1,1,Jo Jo White,,PG,143.0,6.1,COMBO,faded:Driver/Fouls/Scoring PG
+Speed,1,1,Elgin Baylor,Lakers,SF,53.0,5.99,TRADE,faded:Driver/Glue
+Speed,1,1,Penny Hardaway,Magic,PG,45.0,5.76,COMBO,faded:Driver/Scoring PG/Glue
+Speed,1,1,Alex English,,SF,92.0,5.52,GLUE,D<85 faded:Driver
+Speed,1,1,Steve Francis,,PG,174.0,5.5,PG COMBO,D<85
+Speed,1,1,Brandon Roy,Trail Blazers,SG,79.0,5.44,GLUE COMBO,D<85 faded:Driver
+Speed,1,1,Derrick White,,SG,229.0,5.41,PERI-D GLUE PG COMBO,faded:Fouls
+Speed,1,1,Dominique Wilkins,Hawks,SF,100.0,5.01,GLUE,D<85 faded:Driver
+Speed,1,1,Bob Cousy,,PG,75.0,4.97,PG COMBO TRADE,<6'2 faded:Fouls
+Speed,1,1,George Gervin,Spurs,SF,112.0,4.8,,faded:Driver/Fouls/Glue
+Speed,1,1,Gary Payton,Thunder,PG,60.0,4.35,PERI-D COMBO TRADE,faded:Scoring PG/Glue
+Speed,1,1,Fat Lever,,PG,139.0,4.29,COMBO,
+Speed,1,1,Kirk Hinrich,,PG,245.0,3.9,GLUE COMBO,
+Speed,1,1,Dennis Johnson,Suns,PG,86.0,3.86,PERI-D COMBO TRADE,faded:Driver/Fouls/Glue
+Speed,1,1,Richie Guerin,,SG,136.0,3.78,COMBO,faded:Driver/Fouls/Scoring PG
+Speed,1,1,Chauncey Billups,Pistons,PG,83.0,3.74,PERI-D COMBO,faded:Scoring PG
+Speed,1,1,World B. Free,Clippers,PG,264.0,3.73,COMBO,D<85
+Speed,1,1,Steve Nash,Suns,PG,59.0,3.69,PG COMBO,D<85
+Speed,1,1,Chris Paul,,PG,39.0,3.62,COMBO TRADE,<6'2 faded:Driver/Fouls/Scoring PG
+Speed,1,1,David Thompson,,SG,129.0,3.2,GLUE,
+Speed,1,1,Sidney Moncrief,Bucks,SG,100.0,2.87,PERI-D COMBO TRADE,faded:Driver/Fouls/Passer
+Speed,1,1,Micheal Ray Richardson,,PG,105.0,2.69,PERI-D COMBO,faded:Fouls/Glue/Passer
+Speed,1,1,John Wall,,PG,109.0,2.4,COMBO,
+Speed,1,1,Derek Harper,Mavericks,PG,216.0,2.36,COMBO,faded:Glue/Passer
+Speed,1,1,Donovan Mitchell,,SG,95.0,2.26,COMBO,D<85 faded:Scorer/Shooter/Driver
+Speed,1,1,John Stockton,Jazz,PG,43.0,2.23,PERI-D COMBO TRADE,<6'2 faded:Scoring PG/Passer
+Speed,1,1,Paul Arizin,,SF,70.0,2.22,TRADE,faded:Shooter/Fouls/Passer
+Speed,1,1,Jalen Suggs,,PG,218.0,2.05,COMBO,
+Speed,1,1,Amen Thompson,,SG,187.0,2.0,PERI-D,
+Speed,1,1,Gerald Wallace,,SF,116.0,2.0,2WAY,
+Speed,1,1,Ausar Thompson,,SF,,2.0,2WAY,
+Speed,1,1,Mike Conley,Grizzlies,PG,245.0,1.95,PG COMBO,<6'2
+Speed,1,1,Jalen Williams,Thunder,SF,105.0,1.6,PERI-D,
+Speed,1,1,Isiah Thomas,Pistons,PG,86.0,1.38,COMBO,<6'2 faded:Driver/Fouls
+Speed,1,1,Rajon Rondo,Celtics,PG,207.0,1.11,PERI-D COMBO,<6'2 faded:Passer
+Speed,1,1,Glenn Robinson,Bucks,SF,97.0,1.02,,D<85 faded:Shooter/Glue/Passer
+Speed,1,1,Ja Morant,Grizzlies,PG,71.0,0.9,COMBO,D<85
+Speed,1,1,Adrian Dantley,,SF,203.0,0.69,,D<85 faded:Driver/Fouls/Glue
+Speed,1,1,Marques Johnson,,SF,127.0,0.63,,faded:Fouls/Passer
+Speed,1,1,Ron Holland,,PF,,0.2,,no S7-9 mins
+Speed,1,1,Bill Sharman,,SG,114.0,-0.05,,<6'2 faded:Driver/Fouls
+Speed,1,1,Ben Simmons,,PG,126.0,-0.15,,D<85 faded:Combo G/Glue
+Speed,1,1,Hal Greer,,PG,265.0,-0.3,,no S7-9 mins
+Speed,1,1,Lonzo Ball,,PG,,-0.5,,no S7-9 mins
+Speed,1,1,Otis Birdsong,Kings,SG,,-0.6,,no S7-9 mins
+Speed,1,1,Kentavious Caldwell-Pope,,SG,,-0.6,,no S7-9 mins
+Speed,1,1,Sam Cassell,Timberwolves,PG,,-1.1,,D<85
+Speed,1,1,Jason Richardson,,SG,213.0,-1.1,,D<85
+Speed,1,1,Louie Dampier,,PG,,-1.5,,<6'2 no S7-9 mins
+Speed,1,1,Alijah Martin,,SG,,-2.1,,D<85 no S7-9 mins
+Speed,1,1,Adou Thiero,,SF,,-2.1,,D<85 no S7-9 mins
+Speed,1,1,Baylor Scheierman,,SG,,-2.1,,D<85 no S7-9 mins
+Speed,1,1,Ace Bailey,,SF,,-2.1,,D<85 no S7-9 mins
+Speed,1,1,Lucius Allen,,PG,,-2.1,,D<85 no S7-9 mins
+Speed,1,1,Bronny James Jr.,,SG,,-2.1,,D<85 no S7-9 mins
+Speed,1,1,Dylan Harper,,PG,,-2.1,,D<85 no S7-9 mins
+Speed,1,1,VJ Edgecombe,,SG,,-2.1,,D<85 no S7-9 mins
+Speed,1,1,Kevin Porter Jr.,,PG,,-2.1,,D<85 no S7-9 mins
+Speed,1,1,Devin Carter,,PG,,-2.1,,D<85 no S7-9 mins
+Speed,1,1,Drake Powell,,SG,,-2.1,,D<85 no S7-9 mins
+Speed,1,1,Daniel Gibson,,PG,,-2.1,,D<85 no S7-9 mins
+Speed,1,1,Cam Christie,,SG,,-2.1,,D<85 no S7-9 mins
+Speed,1,1,Carter Bryant,,PF,,-2.1,,D<85 no S7-9 mins
+Speed,1,1,Cedric Coward,,SF,,-2.1,,D<85 no S7-9 mins
+Speed,1,1,Charlie Ward,,PG,,-2.1,,D<85 no S7-9 mins
+Speed,1,1,Chaz Lanier,,SG,,-2.1,,D<85 no S7-9 mins
+Speed,1,1,Cody Williams,,SF,,-2.1,,D<85 no S7-9 mins
+Speed,1,1,Tyrese Maxey,,PG,141.0,-2.1,,D<85 no S7-9 mins
+Speed,1,1,Bones Hyland,,PG,,-2.1,,D<85 no S7-9 mins
+Speed,1,1,Collin Sexton,,PG,,-2.1,,D<85 no S7-9 mins
+Speed,1,1,Scoot Henderson,,PG,,-2.1,,D<85 no S7-9 mins
+Speed,1,1,Josh Green,,SF,,-2.1,,D<85 no S7-9 mins
+Speed,1,1,Ochai Agbaji,,PF,,-2.1,,D<85 no S7-9 mins
+Speed,1,1,Pelle Larsson,,SG,,-2.1,,D<85 no S7-9 mins
+Speed,1,1,Quentin Grimes,,SG,,-2.1,,D<85 no S7-9 mins
+Speed,1,1,Rob Dillingham,,PG,,-2.1,,D<85 no S7-9 mins
+Speed,1,1,Ryan Rollins,,SG,,-2.1,,D<85 no S7-9 mins
+Speed,1,1,Terrence Shannon Jr.,,SG,,-2.1,,D<85 no S7-9 mins
+Speed,1,1,Tristan da Silva,,SF,,-2.1,,D<85 no S7-9 mins
+Speed,1,1,Ziaire Williams,,SF,,-2.1,,D<85 no S7-9 mins
+Speed,1,1,Max Christie,,SG,,-2.1,,D<85 no S7-9 mins
+Speed,1,1,Matas Buzelis,,PF,,-2.1,,D<85 no S7-9 mins
+Speed,1,1,Isaiah Collier,,PG,,-2.1,,D<85 no S7-9 mins
+Speed,1,1,Ja'Kobe Walter,,SG,,-2.1,,D<85 no S7-9 mins
+Speed,1,1,Jaylen Wells,,SF,,-2.1,,D<85 no S7-9 mins
+Speed,1,1,Jonathan Mogbo,,C,,-2.1,,D<85 no S7-9 mins
+Speed,1,1,Josh Okogie,,SG,,-2.1,,D<85 no S7-9 mins
+Speed,1,1,Oso Ighodaro,,C,,-2.1,,D<85 no S7-9 mins
+Speed,1,1,Quenton Jackson,,SG,,-2.1,,D<85 no S7-9 mins
+Speed,1,1,Reed Sheppard,,PG,,-2.1,,D<85 no S7-9 mins
+Speed,1,1,Nolan Traore,,PG,,-2.1,,D<85 no S7-9 mins
+Speed,1,1,Noa Essengue,,PF,,-2.1,,D<85 no S7-9 mins
+Speed,1,1,Micah Peavy,,SF,,-2.1,,D<85 no S7-9 mins
+Speed,1,1,Nique Clifford,,SF,,-2.1,,D<85 no S7-9 mins
+Speed,1,1,Walter Clayton Jr.,,PG,,-2.1,,D<85 no S7-9 mins
+Speed,1,1,Sion James,,SG,,-2.1,,D<85 no S7-9 mins
+Speed,1,1,Javon Small,,PG,,-2.1,,D<85 no S7-9 mins
+Speed,1,1,Jeremiah Fears,,PG,,-2.1,,D<85 no S7-9 mins
+Speed,1,1,Gary Trent Jr.,,SG,,-2.1,,D<85 no S7-9 mins
+Speed,1,1,Keshad Johnson,,PF,,-2.1,,D<85 no S7-9 mins
+Speed,1,1,Landry Shamet,,SG,,-2.1,,D<85 no S7-9 mins
+Speed,1,1,Anfernee Simons,,PG,,-2.1,,D<85 no S7-9 mins
+Speed,1,1,De'Aaron Fox,,PG,226.0,-2.1,,D<85 no S7-9 mins
+Speed,1,1,Rolando Blackman,,SG,,-2.1,,D<85 no S7-9 mins
+Speed,1,1,Bernard King,Knicks,SF,275.0,-2.1,,D<85 no S7-9 mins
+Speed,1,1,Junior Bridgeman,,SF,,-2.1,,D<85 no S7-9 mins
+Speed,1,1,Doc Rivers,,PG,,-2.1,,D<85 no S7-9 mins
+Speed,1,1,Danny Granger,,SF,,-2.1,,D<85 no S7-9 mins
+Speed,1,1,Sleepy Floyd,,PG,,-2.1,,D<85 no S7-9 mins
+Speed,1,1,Deron Williams,,PG,,-2.1,,D<85 no S7-9 mins
+Speed,1,1,Stephon Marbury,Timberwolves,PG,,-2.1,,D<85 no S7-9 mins
+Speed,1,1,Kenny Smith,,PG,,-2.1,,D<85 no S7-9 mins
+Speed,1,1,Jason Terry,Mavericks,PG,,-2.1,,D<85 no S7-9 mins
+Speed,1,1,Donte DiVincenzo,,PG,,-2.1,,D<85 no S7-9 mins
+Speed,1,1,Dalton Knecht,,SG,,-2.1,,D<85 no S7-9 mins
+Speed,1,1,Jalen Green,,SG,,-2.1,,D<85 no S7-9 mins
+Speed,1,1,Jeff Teague,,PG,,-2.1,,D<85 no S7-9 mins
+Speed,1,1,Coby White,,SG,,-2.1,,D<85 no S7-9 mins
+Speed,1,1,Shaedon Sharpe,,SG,,-2.1,,D<85 no S7-9 mins
+Speed,1,1,Johnny Moore,,PG,,-2.1,,D<85 no S7-9 mins
+Speed,1,1,Norm Nixon,,PG,,-2.1,,D<85 no S7-9 mins
+Speed,1,1,Jaden Ivey,,SG,,-2.1,,D<85 no S7-9 mins
+Speed,1,1,Kerry Kittles,,SG,,-2.1,,D<85 no S7-9 mins
+Speed,1,1,Chucky Atkins,,PG,,-3.1,,D<85 <6'2 no S7-9 mins
+Speed,1,1,Bobby Jackson,,PG,,-3.1,,D<85 <6'2 no S7-9 mins
+Speed,1,1,Darrell Armstrong,,PG,,-3.1,,D<85 <6'2 no S7-9 mins
+Speed,1,1,Miles McBride,,SG,,-3.1,,D<85 <6'2 no S7-9 mins
+Speed,1,1,Darren Collison,,PG,,-3.1,,D<85 <6'2 no S7-9 mins
+Speed,1,1,Jamal Shead,,PG,,-3.1,,D<85 <6'2 no S7-9 mins
+Speed,1,1,Speedy Claxton,,PG,,-3.1,,D<85 <6'2 no S7-9 mins
+Speed,1,1,Spud Webb,,PG,,-3.1,,D<85 <6'2 no S7-9 mins
+Speed,1,1,Sharife Cooper,,PG,,-3.1,,D<85 <6'2 no S7-9 mins
+Speed,1,1,Isaiah Stevens,,PG,,-3.1,,D<85 <6'2 no S7-9 mins
+Speed,1,1,JD Davison,,PG,,-3.1,,D<85 <6'2 no S7-9 mins
+Speed,1,1,Kenny Anderson,,PG,,-3.1,,D<85 <6'2 no S7-9 mins
+Speed,1,1,Kevin Johnson,,PG,233.0,-3.1,,D<85 <6'2 no S7-9 mins
+Speed,1,1,Freddie Lewis,,PG,,-3.1,,D<85 <6'2 no S7-9 mins
+Speed,1,1,Mahmoud Abdul-Rauf,Nuggets,PG,,-3.1,,D<85 <6'2 no S7-9 mins
+Speed,1,1,Kemba Walker,,PG,,-3.1,,D<85 <6'2 no S7-9 mins
+Speed,1,1,Darius Garland,,PG,,-3.1,,D<85 <6'2 no S7-9 mins
+Speed,1,1,Terrell Brandon,Cavaliers,PG,,-3.1,,D<85 <6'2 no S7-9 mins
+Speed,1,1,Calvin Murphy,,PG,272.0,-3.1,,D<85 <6'2 no S7-9 mins
+Speed,1,1,Jameer Nelson,,PG,,-3.1,,D<85 <6'2 no S7-9 mins
+Speed,1,1,Muggsy Bogues,Hornets,PG,,-3.1,,D<85 <6'2 no S7-9 mins
+Speed,1,1,Damon Stoudamire,Raptors,PG,,-3.1,,D<85 <6'2 no S7-9 mins
+Speed,1,1,Nick Van Exel,,PG,,-3.1,,D<85 <6'2 no S7-9 mins
+Speed,2,2,Kevin Durant,Thunder,SF,18.0,30.31,TAKEOVER SHOOTER GLUE TRADE,
+Speed,2,2,Jayson Tatum,,PF,22.0,24.96,TAKEOVER GLUE STRETCH4,
+Speed,2,2,Kawhi Leonard,Raptors,SF,14.0,22.72,DRIVER PERI-D TRADE,faded:Glue
+Speed,2,2,LaMelo Ball,,PG,228.0,21.84,SHOOTER PG COMBO,D<85
+Speed,2,2,Michael Jordan,Bulls,SG,2.0,19.21,DRIVER PERI-D,faded:Takeover/Combo G/Glue
+Speed,2,2,Kareem Abdul-Jabbar,Bucks,C,3.0,16.97,INT-D ROLLER TRADE,
+Speed,2,2,Devin Booker,,PG,62.0,13.5,,D<85 faded:Takeover/Driver/Combo G
+Speed,2,2,Paul George,Pacers,SF,42.0,13.3,PERI-D,faded:Driver/Glue/Passer
+Speed,2,2,Karl Malone,Jazz,PF,73.0,12.63,INT-D GLUE ROLLER TRADE,
+Speed,2,2,Bob McAdoo,,C,83.0,12.61,DRIVER,faded:Roller
+Speed,2,2,Shaquille O'Neal,Lakers,C,9.0,12.59,INT-D ROLLER TRADE,
+Speed,2,2,Luka Doncic,,PG,40.0,11.93,COMBO,D<85 faded:Driver/Fouls/Scoring PG
+Speed,2,2,Scottie Pippen,Bulls,SF,18.0,10.68,PERI-D GLUE TRADE,faded:Fouls
+Speed,2,2,Moses Malone,76ers,C,50.0,9.57,INT-D ROLLER TRADE,
+Speed,2,2,Jamal Murray,,PG,225.0,9.32,PG COMBO,D<85
+Speed,2,2,Jalen Brunson,,PG,130.0,8.9,PG COMBO,D<85 faded:Scorer/Driver
+Speed,2,2,Anthony Davis,Lakers,C,51.0,8.75,INT-D ROLLER TRADE,
+Speed,2,2,Tyrese Haliburton,,PG,78.0,8.39,PG COMBO,D<85
+Speed,2,2,Chris Mullin,Warriors,SF,63.0,8.1,SHOOTER TRADE,
+Speed,2,2,Gail Goodrich,,SG,157.0,8.02,SHOOTER COMBO,<6'2
+Speed,2,2,Joe Dumars,Pistons,SG,58.0,6.71,PERI-D PG COMBO,faded:Shooter/Driver/Fouls
+Speed,2,2,Josh Smith,,PF,137.0,6.5,INT-D 2WAY GLUE,
+Speed,2,2,Kyle Lowry,Raptors,PG,244.0,6.11,PG COMBO,<6'2
+Speed,2,2,Glen Rice,Hornets,SF,74.0,5.61,SHOOTER,D<85
+Speed,2,2,Earl Monroe,Wizards,PG,,5.58,COMBO,D<85
+Speed,2,2,John Starks,,SG,187.0,4.83,PERI-D COMBO,
+Speed,2,2,Dale Ellis,,SG,201.0,4.79,,D<85
+Speed,2,2,Ron Artest,,SF,72.0,4.7,PERI-D GLUE TRADE,
+Speed,2,2,Cade Cunningham,,PG,78.0,4.36,PG COMBO,D<85
+Speed,2,2,Wes Unseld,,C,131.0,4.1,ROLLER,
+Speed,2,2,Shawn Kemp,Thunder,PF,227.0,3.95,ROLLER,D<85
+Speed,2,2,Paul Pierce,Celtics,SF,64.0,3.91,,
+Speed,2,2,Don Ohl,,PG,230.0,3.78,PG COMBO,D<85
+Speed,2,2,Chris Webber,Kings,PF,97.0,3.74,,D<85
+Speed,2,2,Jerry Stackhouse,,SG,100.0,3.62,,D<85 faded:Scorer
+Speed,2,2,Dennis Rodman,Bulls,PF,149.0,3.3,INT-D ROLLER,
+Speed,2,2,Eddie Jones,Hornets,SG,80.0,3.23,TRADE,faded:Glue
+Speed,2,2,Jimmy Butler,Heat,SF,93.0,3.18,,
+Speed,2,2,Michael Finley,,SF,165.0,3.04,,D<85
+Speed,2,2,Mikal Bridges,,SG,235.0,2.93,GLUE,
+Speed,2,2,James Worthy,Lakers,SF,85.0,2.79,2WAY,faded:Fouls/Glue
+Speed,2,2,Allan Houston,Knicks,SG,92.0,2.75,SHOOTER,D<85 faded:Passer
+Speed,2,2,Dell Curry,,SG,157.0,2.6,SHOOTER,D<85 faded:Scorer/Driver/Fouls
+Speed,2,2,Don Buse,,PG,189.0,2.42,COMBO,faded:Driver/Fouls/Glue
+Speed,2,2,Jaylen Brown,,SF,60.0,1.86,,faded:Shooter/Fouls
+Speed,2,2,Rashard Lewis,,PF,165.0,1.76,STRETCH4,D<85
+Speed,2,2,Mark Price,Cavaliers,PG,193.0,1.53,COMBO,D<85 <6'2
+Speed,2,2,Luguentz Dort,,SG,,1.5,PERI-D,
+Speed,2,2,Jaden McDaniels,,SF,210.0,1.5,,
+Speed,2,2,Jerry Sloan,,SG,132.0,1.42,PERI-D,faded:Fouls
+Speed,2,2,Tony Allen,,SG,240.0,1.41,PERI-D,faded:Combo G
+Speed,2,2,OG Anunoby,,SF,159.0,1.4,,
+Speed,2,2,Joe Caldwell,,SG,251.0,1.3,PERI-D,
+Speed,2,2,Bruce Bowen,Spurs,SF,123.0,1.3,PERI-D,
+Speed,2,2,Geoff Petrie,,SG,246.0,1.08,PG COMBO,D<85
+Speed,2,2,Alex Caruso,,SF,248.0,0.9,,
+Speed,2,2,Jack Marin,,SF,243.0,0.8,,
+Speed,2,2,Manu Ginobili,Spurs,SG,162.0,0.77,COMBO,D<85 faded:Fouls
+Speed,2,2,Andrei Kirilenko,,PF,92.0,0.56,,D<85 faded:Glue/Stretch 4/5/Roller
+Speed,2,2,Michael Redd,,SG,124.0,0.47,,D<85
+Speed,2,2,Scottie Barnes,,PF,173.0,0.42,GLUE,D<85 faded:Passer
+Speed,2,2,Jrue Holiday,Pelicans,SG,215.0,0.3,PERI-D,no S7-9 mins
+Speed,2,2,Dyson Daniels,,SG,,0.3,PERI-D,no S7-9 mins
+Speed,2,2,Jamaal Wilkes,,SF,270.0,0.1,,no S7-9 mins
+Speed,2,2,Walter Davis,,SG,236.0,0.08,,D<85
+Speed,2,2,Tari Eason,,SG,,-0.2,,no S7-9 mins
+Speed,2,2,Dejounte Murray,,PG,,-0.29,COMBO,D<85
+Speed,2,2,Eric Snow,,PG,,-0.3,,no S7-9 mins
+Speed,2,2,Amar'e Stoudemire,Suns,PF,187.0,-0.35,,D<85
+Speed,2,2,Lou Hudson,,SF,176.0,-0.46,,D<85
+Speed,2,2,Kris Dunn,,SG,,-0.5,,no S7-9 mins
+Speed,2,2,Maurice Cheeks,,PG,,-0.6,PERI-D,<6'2 no S7-9 mins
+Speed,2,2,Josh Hart,,PF,,-0.7,,no S7-9 mins
+Speed,2,2,Gordon Hayward,,SF,148.0,-0.8,,D<85
+Speed,2,2,Larry Kenon,,SF,281.0,-0.8,,D<85
+Speed,2,2,Joe Johnson,,SF,198.0,-0.8,,D<85
+Speed,2,2,Latrell Sprewell,1998-99 Knicks,SF,,-0.8,,no S7-9 mins
+Speed,2,2,Morris Peterson,,SG,236.0,-0.85,,D<85 faded:Combo G
+Speed,2,2,Cooper Flagg,,SF,178.0,-0.9,,D<85
+Speed,2,2,Steve Smith,Hawks,SG,220.0,-1.06,,D<85
+Speed,2,2,Caron Butler,Wizards,SF,198.0,-1.3,,D<85
+Speed,2,2,Richard Jefferson,,SF,171.0,-1.3,,D<85
+Speed,2,2,Stephon Castle,,SG,228.0,-1.3,,D<85
+Speed,2,2,Brandon Miller,,SG,,-1.3,,D<85
+Speed,2,2,Austin Reaves,,SG,220.0,-1.3,,D<85
+Speed,2,2,Davion Mitchell,,PG,,-1.5,,<6'2 no S7-9 mins
+Speed,2,2,Anthony Roberson,,PG,,-2.3,,D<85 no S7-9 mins
+Speed,2,2,Andre Jackson Jr.,,SF,,-2.3,,D<85 no S7-9 mins
+Speed,2,2,Antonio Reeves,,SG,,-2.3,,D<85 no S7-9 mins
+Speed,2,2,Blake Wesley,,PG,,-2.3,,D<85 no S7-9 mins
+Speed,2,2,Ben Saraf,,PG,,-2.3,,D<85 no S7-9 mins
+Speed,2,2,Ben Sheppard,,SG,,-2.3,,D<85 no S7-9 mins
+Speed,2,2,DeMar DeRozan,Raptors,SG,249.0,-2.3,,D<85 no S7-9 mins
+Speed,2,2,Paolo Banchero,Magic,PF,208.0,-2.3,,D<85 no S7-9 mins
+Speed,2,2,Michael Porter Jr.,,SF,207.0,-2.3,,D<85 no S7-9 mins
+Speed,2,2,C.J. Watson,,PG,,-2.3,,D<85 no S7-9 mins
+Speed,2,2,Darrell Walker,,PG,,-2.3,,D<85 no S7-9 mins
+Speed,2,2,Blake Griffin,,PF,215.0,-2.3,,D<85 no S7-9 mins
+Speed,2,2,Caleb Houstan,,SF,,-2.3,,D<85 no S7-9 mins
+Speed,2,2,Caleb Love,,PG,,-2.3,,D<85 no S7-9 mins
+Speed,2,2,Chris Livingston,,PF,,-2.3,,D<85 no S7-9 mins
+Speed,2,2,Chris Manon,,SG,,-2.3,,D<85 no S7-9 mins
+Speed,2,2,Collin Murray-Boyles,,PF,,-2.3,,D<85 no S7-9 mins
+Speed,2,2,Daeqwon Plowden,,SF,,-2.3,,D<85 no S7-9 mins
+Speed,2,2,Dante Exum,,SG,,-2.3,,D<85 no S7-9 mins
+Speed,2,2,Adem Bona,,C,,-2.3,,D<85 no S7-9 mins
+Speed,2,2,AJ Johnson,,SG,,-2.3,,D<85 no S7-9 mins
+Speed,2,2,Ajay Mitchell,,PG,,-2.3,,D<85 no S7-9 mins
+Speed,2,2,Bub Carrington,,PG,,-2.3,,D<85 no S7-9 mins
+Speed,2,2,Jordan Poole,,SG,,-2.3,,D<85 no S7-9 mins
+Speed,2,2,Malik Monk,,SG,,-2.3,,D<85 no S7-9 mins
+Speed,2,2,Brandin Podziemski,,SG,,-2.3,,D<85 no S7-9 mins
+Speed,2,2,Cole Anthony,,PG,,-2.3,,D<85 no S7-9 mins
+Speed,2,2,Malaki Branham,,SG,,-2.3,,D<85 no S7-9 mins
+Speed,2,2,Kevin Huerter,,SG,,-2.3,,D<85 no S7-9 mins
+Speed,2,2,Jordan Clarkson,,SG,,-2.3,,D<85 no S7-9 mins
+Speed,2,2,Immanuel Quickley,,PG,,-2.3,,D<85 no S7-9 mins
+Speed,2,2,Keyonte George,,PG,,-2.3,,D<85 no S7-9 mins
+Speed,2,2,Nick Smith Jr.,,PG,,-2.3,,D<85 no S7-9 mins
+Speed,2,2,Ryan Dunn,,PF,,-2.3,,D<85 no S7-9 mins
+Speed,2,2,Yves Missi,,C,,-2.3,,D<85 no S7-9 mins
+Speed,2,2,Jaden Hardy,,SG,,-2.3,,D<85 no S7-9 mins
+Speed,2,2,Jalen Wilson,,SF,,-2.3,,D<85 no S7-9 mins
+Speed,2,2,Jarace Walker,,PF,,-2.3,,D<85 no S7-9 mins
+Speed,2,2,Justin Edwards,,SF,,-2.3,,D<85 no S7-9 mins
+Speed,2,2,Jaylen Clark,,SF,,-2.3,,D<85 no S7-9 mins
+Speed,2,2,Olivier-Maxence Prosper,,PF,,-2.3,,D<85 no S7-9 mins
+Speed,2,2,Ousmane Dieng,,PF,,-2.3,,D<85 no S7-9 mins
+Speed,2,2,Pacome Dadiet,,SF,,-2.3,,D<85 no S7-9 mins
+Speed,2,2,Pepe Sanchez,,PG,,-2.3,,D<85 no S7-9 mins
+Speed,2,2,Aaron Wiggins,,SF,,-2.3,,D<85 no S7-9 mins
+Speed,2,2,RayJ Dennis,,PG,,-2.3,,D<85 no S7-9 mins
+Speed,2,2,Ricky Rubio,,PG,,-2.3,,D<85 no S7-9 mins
+Speed,2,2,Nikola Djurisic,,SG,,-2.3,,D<85 no S7-9 mins
+Speed,2,2,Nikola Topic,,PG,,-2.3,,D<85 no S7-9 mins
+Speed,2,2,Tony Wroten,,SG,,-2.3,,D<85 no S7-9 mins
+Speed,2,2,Trentyn Flowers,,SF,,-2.3,,D<85 no S7-9 mins
+Speed,2,2,Trey Alexander,,PG,,-2.3,,D<85 no S7-9 mins
+Speed,2,2,Tyrese Proctor,,SG,,-2.3,,D<85 no S7-9 mins
+Speed,2,2,Tyson Etienne,,PG,,-2.3,,D<85 no S7-9 mins
+Speed,2,2,Will Richard,,SF,,-2.3,,D<85 no S7-9 mins
+Speed,2,2,Will Riley,,SF,,-2.3,,D<85 no S7-9 mins
+Speed,2,2,Svi Mykhailiuk,,SG,,-2.3,,D<85 no S7-9 mins
+Speed,2,2,Taelon Peter,,PG,,-2.3,,D<85 no S7-9 mins
+Speed,2,2,Jahmai Mashack,,SG,,-2.3,,D<85 no S7-9 mins
+Speed,2,2,Jamaree Bouyea,,PG,,-2.3,,D<85 no S7-9 mins
+Speed,2,2,Jamir Watkins,,SG,,-2.3,,D<85 no S7-9 mins
+Speed,2,2,Jase Richardson,,SG,,-2.3,,D<85 no S7-9 mins
+Speed,2,2,Jaylon Tyson,,SF,,-2.3,,D<85 no S7-9 mins
+Speed,2,2,Jericho Sims,,C,,-2.3,,D<85 no S7-9 mins
+Speed,2,2,Elijah Harkless,,SG,,-2.3,,D<85 no S7-9 mins
+Speed,2,2,Emanuel Miller,,SF,,-2.3,,D<85 no S7-9 mins
+Speed,2,2,Goran Dragic,,PG,,-2.3,,D<85 no S7-9 mins
+Speed,2,2,Harrison Ingram,,SF,,-2.3,,D<85 no S7-9 mins
+Speed,2,2,Howard Eisley,,PG,,-2.3,,D<85 no S7-9 mins
+Speed,2,2,Liam McNeeley,,SF,,-2.3,,D<85 no S7-9 mins
+Speed,2,2,Keith Bogans,,SG,,-2.3,,D<85 no S7-9 mins
+Speed,2,2,John Battle,,SG,,-2.3,,D<85 no S7-9 mins
+Speed,2,2,Johnny Furphy,,SF,,-2.3,,D<85 no S7-9 mins
+Speed,2,2,Jordan Miller,,SF,,-2.3,,D<85 no S7-9 mins
+Speed,2,2,Kasparas Jakucionis,,PG,,-2.3,,D<85 no S7-9 mins
+Speed,2,2,Keaton Wallace,,PG,,-2.3,,D<85 no S7-9 mins
+Speed,2,2,Jim Jackson,,SG,,-2.3,,D<85 no S7-9 mins
+Speed,2,2,Jamal Mashburn,Pelicans,SF,258.0,-2.3,,D<85 no S7-9 mins
+Speed,2,2,Mark Aguirre,Mavericks,SF,,-2.3,,D<85 no S7-9 mins
+Speed,2,2,Terry Porter,Trail Blazers,PG,,-2.3,,D<85 no S7-9 mins
+Speed,2,2,B.J. Armstrong,,PG,,-2.3,,D<85 no S7-9 mins
+Speed,2,2,Darrell Griffith,,SG,,-2.3,,D<85 no S7-9 mins
+Speed,2,2,Zach LaVine,Bulls,SG,,-2.3,,D<85 no S7-9 mins
+Speed,2,2,Phil Chenier,,SG,,-2.3,,D<85 no S7-9 mins
+Speed,2,2,Hersey Hawkins,,SG,,-2.3,,D<85 no S7-9 mins
+Speed,2,2,Xavier McDaniel,,SF,,-2.3,,D<85 no S7-9 mins
+Speed,2,2,Zion Williamson,Pelicans,PF,,-2.3,,D<85 no S7-9 mins
+Speed,2,2,C.J. McCollum,Trail Blazers,SG,,-2.3,,D<85 no S7-9 mins
+Speed,2,2,Jeremy Lin,,PG,,-2.3,,D<85 no S7-9 mins
+Speed,2,2,D'Angelo Russell,,PG,,-2.3,,D<85 no S7-9 mins
+Speed,2,2,Eric Gordon,,SG,,-2.3,,D<85 no S7-9 mins
+Speed,2,2,Grayson Allen,,SG,,-2.3,,D<85 no S7-9 mins
+Speed,2,2,Brandon Clarke,,C,,-2.3,,D<85 no S7-9 mins
+Speed,2,2,Josh Giddey,,PG,,-2.3,,D<85 no S7-9 mins
+Speed,2,2,Bennedict Mathurin,,SF,,-2.3,,D<85 no S7-9 mins
+Speed,2,2,Bingo Smith,,SG,,-2.3,,D<85 no S7-9 mins
+Speed,2,2,Campy Russell,,SF,,-2.3,,D<85 no S7-9 mins
+Speed,2,2,Jeff Malone,,SG,,-2.3,,D<85 no S7-9 mins
+Speed,2,2,Purvis Short,,SF,,-2.3,,D<85 no S7-9 mins
+Speed,2,2,R.J. Barrett,,SG,,-2.3,,D<85 no S7-9 mins
+Speed,2,2,Taurean Prince,,SF,,-2.3,,D<85 no S7-9 mins
+Speed,2,2,Trayce Jackson-Davis,,C,,-2.3,,D<85 no S7-9 mins
+Speed,2,2,GG Jackson,,SF,,-2.3,,D<85 no S7-9 mins
+Speed,2,2,Keon Ellis,,SG,,-2.3,,D<85 no S7-9 mins
+Speed,2,2,Cam Whitmore,,SF,,-2.3,,D<85 no S7-9 mins
+Speed,2,2,Doug West,,SG,,-2.3,,D<85 no S7-9 mins
+Speed,2,2,Aaron McKie,,PG,,-2.3,,D<85 no S7-9 mins
+Speed,2,2,Jonathan Kuminga,,PF,,-2.3,,D<85 no S7-9 mins
+Speed,2,2,Aaron Nesmith,,SG,,-2.3,,D<85 no S7-9 mins
+Speed,2,2,Bilal Coulibaly,,SG,,-2.3,,D<85 no S7-9 mins
+Speed,2,2,Christian Braun,,SG,,-2.3,,D<85 no S7-9 mins
+Speed,2,2,Kendall Gill,,SG,,-2.3,,D<85 no S7-9 mins
+Speed,2,2,Brad Davis,,PG,,-2.3,,D<85 no S7-9 mins
+Speed,2,2,Isaiah Rider,,SG,,-2.3,,D<85 no S7-9 mins
+Speed,2,2,Byron Scott,1986-87 Lakers,SG,,-2.3,,D<85 no S7-9 mins
+Speed,2,2,Austin Carr,,SG,,-2.3,,D<85 no S7-9 mins
+Speed,2,2,Kevin Martin,,SG,,-2.3,,D<85 no S7-9 mins
+Speed,2,2,Kelly Tripucka,,SG,273.0,-2.3,,D<85 no S7-9 mins
+Speed,2,2,Reggie Theus,,PG,,-2.3,,D<85 no S7-9 mins
+Speed,2,2,Eddie Johnson,,SG,,-2.3,,D<85 no S7-9 mins
+Speed,2,2,Corey Maggette,,SF,,-2.3,,D<85 no S7-9 mins
+Speed,2,2,Jim Paxson,,SG,,-2.3,,D<85 no S7-9 mins
+Speed,2,2,J.R. Smith,2007-08 Nuggets,SG,,-2.3,,D<85 no S7-9 mins
+Speed,2,2,Norman Powell,,SF,,-2.3,,D<85 no S7-9 mins
+Speed,2,2,Trey Murphy III,,SG,,-2.3,,D<85 no S7-9 mins
+Speed,2,2,Gary Payton II,,SF,,-2.3,,D<85 no S7-9 mins
+Speed,2,2,Tyler Herro,,SG,,-2.3,,D<85 no S7-9 mins
+Speed,2,2,Vernon Maxwell,,SG,,-2.3,,D<85 no S7-9 mins
+Speed,2,2,Andrew Wiggins,Timberwolves,PF,,-2.3,,D<85 no S7-9 mins
+Speed,2,2,Andre Miller,,PG,,-2.3,,D<85 no S7-9 mins
+Speed,2,2,Mike Miller,Grizzlies,SG,,-2.3,,D<85 no S7-9 mins
+Speed,2,2,Antonio Burks,,PG,,-3.3,,D<85 <6'2 no S7-9 mins
+Speed,2,2,Trae Young,,PG,263.0,-3.3,,D<85 <6'2 no S7-9 mins
+Speed,2,2,Collin Gillespie,,PG,,-3.3,,D<85 <6'2 no S7-9 mins
+Speed,2,2,Craig Porter Jr.,,PG,,-3.3,,D<85 <6'2 no S7-9 mins
+Speed,2,2,Brandon Williams,,PG,,-3.3,,D<85 <6'2 no S7-9 mins
+Speed,2,2,Tre Jones,,PG,,-3.3,,D<85 <6'2 no S7-9 mins
+Speed,2,2,Derek Fisher,,PG,,-3.3,,D<85 <6'2 no S7-9 mins
+Speed,2,2,Scotty Pippen Jr.,,PG,,-3.3,,D<85 <6'2 no S7-9 mins
+Speed,2,2,Seth Curry,,SG,,-3.3,,D<85 <6'2 no S7-9 mins
+Speed,2,2,Eddie House,,PG,,-3.3,,D<85 <6'2 no S7-9 mins
+Speed,2,2,Mark Sears,,PG,,-3.3,,D<85 <6'2 no S7-9 mins
+Speed,2,2,Mo Williams,,PG,,-3.3,,D<85 <6'2 no S7-9 mins
+Speed,2,2,Tyronn Lue,,PG,,-3.3,,D<85 <6'2 no S7-9 mins
+Speed,2,2,Wes Matthews,,PG,,-3.3,,D<85 <6'2 no S7-9 mins
+Speed,2,2,Ryan Nembhard,,PG,,-3.3,,D<85 <6'2 no S7-9 mins
+Speed,2,2,Jacque Vaughn,,PG,,-3.3,,D<85 <6'2 no S7-9 mins
+Speed,2,2,Jahmir Young,,PG,,-3.3,,D<85 <6'2 no S7-9 mins
+Speed,2,2,Jannero Pargo,,PG,,-3.3,,D<85 <6'2 no S7-9 mins
+Speed,2,2,Jerry Sichting,,PG,,-3.3,,D<85 <6'2 no S7-9 mins
+Speed,2,2,Larry Drew,,PG,,-3.3,,D<85 <6'2 no S7-9 mins
+Speed,2,2,LJ Cryer,,PG,,-3.3,,D<85 <6'2 no S7-9 mins
+Speed,2,2,Mike Bibby,Kings,PG,,-3.3,,D<85 <6'2 no S7-9 mins
+Speed,2,2,Fred VanVleet,Raptors,PG,,-3.3,,D<85 <6'2 no S7-9 mins
+Speed,2,2,David Wesley,,SG,,-3.3,,D<85 <6'2 no S7-9 mins
+Speed,2,2,Terry Rozier III,,PG,,-3.3,,D<85 <6'2 no S7-9 mins
+Speed,2,2,Scott Skiles,,PG,,-3.3,,D<85 <6'2 no S7-9 mins
+Speed,2,2,James Silas,,SG,,-3.3,,D<85 <6'2 no S7-9 mins
+Speed,2,2,Dennis Schroder,,PG,,-3.3,,D<85 <6'2 no S7-9 mins
+Stop driver,1,1,LeBron James,Heat,SF,3.0,30.08,TAKEOVER PERI-D GLUE TRADE,
+Stop driver,1,1,Kawhi Leonard,Raptors,SF,14.0,22.72,DRIVER PERI-D TRADE,faded:Glue
+Stop driver,1,1,Michael Jordan,Bulls,SG,2.0,19.21,DRIVER PERI-D,faded:Takeover/Combo G/Glue
+Stop driver,1,1,Julius Erving,Nets,SF,29.0,12.39,,faded:Takeover/Scorer
+Stop driver,1,1,Scottie Pippen,Bulls,SF,18.0,10.68,PERI-D GLUE TRADE,faded:Fouls
+Stop driver,1,1,Josh Smith,,PF,137.0,6.5,INT-D 2WAY GLUE,
+Stop driver,1,1,Elgin Baylor,Lakers,SF,53.0,5.99,TRADE,faded:Driver/Glue
+Stop driver,1,1,Bam Adebayo,,C,201.0,3.9,INT-D 2WAY ROLLER,
+Stop driver,1,1,Jimmy Butler,Heat,SF,93.0,3.18,,
+Stop driver,1,1,Toumani Camara,,PF,,2.5,2WAY,
+Stop driver,1,1,Bobby Jones,,SF,189.0,2.0,PERI-D INT-D 2WAY,
+Stop driver,1,1,Luguentz Dort,,SG,,1.5,PERI-D,
+Stop driver,1,1,Jamaal Wilkes,,SF,270.0,0.1,,no S7-9 mins
+Stop driver,2,2,Jayson Tatum,,PF,22.0,24.96,TAKEOVER GLUE STRETCH4,
+Stop driver,2,2,Giannis Antetokounmpo,,PF,5.0,22.26,INT-D 2WAY GLUE ROLLER,
+Stop driver,2,2,Magic Johnson,Lakers,PG,8.0,18.04,DRIVER 2WAY GLUE COMBO,
+Stop driver,2,2,Paul George,Pacers,SF,42.0,13.3,PERI-D,faded:Driver/Glue/Passer
+Stop driver,2,2,Larry Bird,Celtics,SF,21.0,8.53,2WAY GLUE TRADE,faded:Scorer/Shooter/Driver
+Stop driver,2,2,Jason Kidd,Nets,PG,35.0,6.22,PERI-D GLUE COMBO TRADE,faded:Driver/Fouls/Scoring PG
+Stop driver,2,2,George Gervin,Spurs,SF,112.0,4.8,,faded:Driver/Fouls/Glue
+Stop driver,2,2,Ron Artest,,SF,72.0,4.7,PERI-D GLUE TRADE,
+Stop driver,2,2,Dennis Johnson,Suns,PG,86.0,3.86,PERI-D COMBO TRADE,faded:Driver/Fouls/Glue
+Stop driver,2,2,James Worthy,Lakers,SF,85.0,2.79,2WAY,faded:Fouls/Glue
+Stop driver,2,2,Micheal Ray Richardson,,PG,105.0,2.69,PERI-D COMBO,faded:Fouls/Glue/Passer
+Stop driver,2,2,Don Buse,,PG,189.0,2.42,COMBO,faded:Driver/Fouls/Glue
+Stop driver,2,2,Larry Nance,Suns,SF,203.0,2.0,INT-D 2WAY,
+Stop driver,2,2,Amen Thompson,,SG,187.0,2.0,PERI-D,
+Stop driver,2,2,Gerald Wallace,,SF,116.0,2.0,2WAY,
+Stop driver,2,2,Ausar Thompson,,SF,,2.0,2WAY,
+Stop driver,2,2,Jaylen Brown,,SF,60.0,1.86,,faded:Shooter/Fouls
+Stop driver,2,2,Jalen Williams,Thunder,SF,105.0,1.6,PERI-D,
+Stop driver,2,2,Jaden McDaniels,,SF,210.0,1.5,,
+Stop driver,2,2,OG Anunoby,,SF,159.0,1.4,,
+Stop driver,2,2,Michael Cooper,Lakers,SG,202.0,1.2,PERI-D,
+Stop driver,2,2,Jack Marin,,SF,243.0,0.8,,
+Stop driver,2,2,Shane Battier,Grizzlies,SF,155.0,0.7,,
+Stop driver,2,2,Luol Deng,,SF,245.0,0.7,,
+Stop driver,2,2,Cason Wallace,,SG,,0.6,,
+Stop driver,2,2,Khris Middleton,Bucks,SF,144.0,0.46,,faded:Shooter
+Stop driver,2,2,Dan Majerle,,SG,167.0,0.4,,
+Stop driver,2,2,Ron Holland,,PF,,0.2,,no S7-9 mins
+Stop driver,2,2,Tari Eason,,SG,,-0.2,,no S7-9 mins
+Stop driver,2,2,Dillon Brooks,,PF,,-0.2,,no S7-9 mins
+Stop driver,2,2,Marcus Smart,,SG,,-0.5,,no S7-9 mins
+Stop driver,2,2,Maurice Cheeks,,PG,,-0.6,PERI-D,<6'2 no S7-9 mins
+Stop driver,2,2,Josh Hart,,PF,,-0.7,,no S7-9 mins
+Stop driver,2,2,Louie Dampier,,PG,,-1.5,,<6'2 no S7-9 mins
+Stop in/out,1,1,Giannis Antetokounmpo,,PF,5.0,22.26,INT-D 2WAY GLUE ROLLER,
+Stop in/out,1,1,Magic Johnson,Lakers,PG,8.0,18.04,DRIVER 2WAY GLUE COMBO,
+Stop in/out,1,1,Larry Bird,Celtics,SF,21.0,8.53,2WAY GLUE TRADE,faded:Scorer/Shooter/Driver
+Stop in/out,1,1,Josh Smith,,PF,137.0,6.5,INT-D 2WAY GLUE,
+Stop in/out,1,1,Bam Adebayo,,C,201.0,3.9,INT-D 2WAY ROLLER,
+Stop in/out,1,1,James Worthy,Lakers,SF,85.0,2.79,2WAY,faded:Fouls/Glue
+Stop in/out,1,1,Toumani Camara,,PF,,2.5,2WAY,
+Stop in/out,1,1,Larry Nance,Suns,SF,203.0,2.0,INT-D 2WAY,
+Stop in/out,1,1,Bobby Jones,,SF,189.0,2.0,PERI-D INT-D 2WAY,
+Stop in/out,1,1,Gerald Wallace,,SF,116.0,2.0,2WAY,
+Stop in/out,1,1,Ausar Thompson,,SF,,2.0,2WAY,
+Stop in/out,2,2,Scottie Pippen,Bulls,SF,18.0,10.68,PERI-D GLUE TRADE,faded:Fouls
+Stop in/out,2,2,Rick Barry,,SF,59.0,8.13,GLUE,D<85 faded:Passer
+Stop in/out,2,2,Evan Mobley,Cavaliers,PF,116.0,4.85,INT-D ROLLER,
+Stop in/out,2,2,Jaden McDaniels,,SF,210.0,1.5,,
+Stop in/out,2,2,Jonathan Isaac,,PF,,-0.1,,D<85
+Stop in/out,2,2,Larry Kenon,,SF,281.0,-0.8,,D<85
+Stop in/out,2,2,Shawn Marion,2002-03 Suns,SF,128.0,-1.0,,D<85
+Stop in/out,2,2,Jarred Vanderbilt,,PF,,-2.0,,D<85 no S7-9 mins
+Stop in/out,2,2,Rodney McCray,,SF,,-2.4,,D<85 no S7-9 mins
+Stop post,1,1,Giannis Antetokounmpo,,PF,5.0,22.26,INT-D 2WAY GLUE ROLLER,
+Stop post,1,1,Kareem Abdul-Jabbar,Bucks,C,3.0,16.97,INT-D ROLLER TRADE,
+Stop post,1,1,Hakeem Olajuwon,Rockets,C,20.0,14.34,INT-D ROLLER TRADE,
+Stop post,1,1,Tim Duncan,Spurs,PF,36.0,13.72,INT-D GLUE ROLLER TRADE,
+Stop post,1,1,Wilt Chamberlain,Warriors,C,10.0,12.8,INT-D ROLLER TRADE,
+Stop post,1,1,Karl Malone,Jazz,PF,73.0,12.63,INT-D GLUE ROLLER TRADE,
+Stop post,1,1,Shaquille O'Neal,Lakers,C,9.0,12.59,INT-D ROLLER TRADE,
+Stop post,1,1,Dolph Schayes,,PF,54.0,11.45,INT-D GLUE STRETCH4 ROLLER TRADE,faded:Passer
+Stop post,1,1,Kevin Garnett,2003-04 Timberwolves,PF,25.0,11.25,INT-D,
+Stop post,1,1,Dwight Howard,,C,45.0,10.98,INT-D ROLLER TRADE,
+Stop post,1,1,Artis Gilmore,Bulls,C,64.0,10.55,INT-D ROLLER TRADE,
+Stop post,1,1,Patrick Ewing,Knicks,C,36.0,9.75,INT-D ROLLER TRADE,
+Stop post,1,1,Moses Malone,76ers,C,50.0,9.57,INT-D ROLLER TRADE,
+Stop post,1,1,DeAndre Jordan,2013-14 Clippers,C,157.0,9.43,INT-D ROLLER TRADE,
+Stop post,1,1,Joel Embiid,76ers,C,62.0,9.43,INT-D STRETCH4 TRADE,faded:Fouls
+Stop post,1,1,Tyson Chandler,2011-12 Knicks,C,189.0,9.32,INT-D ROLLER TRADE,
+Stop post,1,1,Elvin Hayes,Wizards,PF,110.0,8.85,INT-D GLUE ROLLER TRADE,
+Stop post,1,1,David Robinson,Spurs,C,65.0,8.84,INT-D ROLLER TRADE,
+Stop post,1,1,Anthony Davis,Lakers,C,51.0,8.75,INT-D ROLLER TRADE,
+Stop post,1,1,Bill Walton,Trail Blazers,C,68.0,8.63,INT-D ROLLER TRADE,
+Stop post,1,1,Rudy Gobert,Jazz,C,150.0,8.57,INT-D ROLLER TRADE,
+Stop post,1,1,Mark Eaton,,C,96.0,8.52,INT-D ROLLER TRADE,
+Stop post,1,1,Dikembe Mutombo,Hawks,C,67.0,7.93,INT-D ROLLER TRADE,
+Stop post,1,1,Alonzo Mourning,Heat,C,77.0,7.77,INT-D ROLLER TRADE,
+Stop post,1,1,Kevin McHale,Celtics,PF,130.0,7.29,INT-D ROLLER TRADE,
+Stop post,1,1,Nate Thurmond,,C,84.0,6.97,INT-D ROLLER TRADE,
+Stop post,1,1,George Mikan,,C,119.0,5.96,INT-D ROLLER TRADE,
+Stop post,1,1,Dave Cowens,,C,103.0,5.91,INT-D ROLLER TRADE,
+Stop post,1,1,Joakim Noah,Bulls,C,159.0,5.64,INT-D ROLLER TRADE,
+Stop post,1,1,Marc Gasol,Grizzlies,C,106.0,5.05,INT-D ROLLER TRADE,
+Stop post,1,1,Jaren Jackson Jr.,Grizzlies,PF,150.0,4.59,INT-D GLUE STRETCH4,
+Stop post,1,1,Willis Reed,Knicks,C,100.0,4.04,INT-D ROLLER TRADE,
+Stop post,1,1,Bam Adebayo,,C,201.0,3.9,INT-D 2WAY ROLLER,
+Stop post,1,1,Jack Sikma,,C,190.0,3.3,INT-D ROLLER TRADE,
+Stop post,1,1,Dennis Rodman,Bulls,PF,149.0,3.3,INT-D ROLLER,
+Stop post,1,1,P.J. Brown,1996-97 Heat,C,239.0,3.2,INT-D ROLLER TRADE,
+Stop post,1,1,Draymond Green,Warriors,PF,102.0,3.1,INT-D GLUE,
+Stop post,1,1,Ben Wallace,2003-04 Pistons,C,173.0,3.1,INT-D ROLLER,
+Stop post,1,1,Maurice Lucas,,PF,193.0,3.06,INT-D,
+Stop post,1,1,Al Horford,Hawks,C,,2.4,INT-D TRADE,
+Stop post,1,1,Serge Ibaka,,C,193.0,0.4,INT-D TRADE,no S7-9 mins
+Stop post,1,1,Roy Hibbert,Pacers,C,280.0,0.4,INT-D TRADE,no S7-9 mins
+Stop post,1,1,Ivica Zubac,,C,218.0,0.4,INT-D TRADE,no S7-9 mins
+Stop post,1,1,Tom Heinsohn,,PF,268.0,0.1,INT-D,no S7-9 mins
+Stop post,1,1,Charles Oakley,Knicks,PF,,0.1,INT-D,no S7-9 mins
+Stop post,1,1,Dave Debusschere,,PF,116.0,0.1,INT-D,no S7-9 mins
+Stop post,1,1,Horace Grant,Bulls,PF,,0.1,INT-D,no S7-9 mins
+Stop post,2,2,Victor Wembanyama,,C,10.0,11.81,INT-D STRETCH4 TRADE,
+Stop post,2,2,Mel Daniels,,C,149.0,10.04,INT-D ROLLER,
+Stop post,2,2,Robert Parish,Celtics,C,117.0,8.79,INT-D ROLLER TRADE,
+Stop post,2,2,Jarrett Allen,,C,,7.04,ROLLER,
+Stop post,2,2,Josh Smith,,PF,137.0,6.5,INT-D 2WAY GLUE,
+Stop post,2,2,Evan Mobley,Cavaliers,PF,116.0,4.85,INT-D ROLLER,
+Stop post,2,2,Marcus Camby,2007-08 Nuggets,C,182.0,4.05,INT-D ROLLER TRADE,
+Stop post,2,2,James Worthy,Lakers,SF,85.0,2.79,2WAY,faded:Fouls/Glue
+Stop post,2,2,Toumani Camara,,PF,,2.5,2WAY,
+Stop post,2,2,Jerry Lucas,Kings,PF,113.0,2.12,TRADE,faded:Stretch 4/5
+Stop post,2,2,Larry Nance,Suns,SF,203.0,2.0,INT-D 2WAY,
+Stop post,2,2,Bobby Jones,,SF,189.0,2.0,PERI-D INT-D 2WAY,
+Stop post,2,2,Ausar Thompson,,SF,,2.0,2WAY,
+Stop post,2,2,Tree Rollins,,C,,-0.3,,no S7-9 mins
+Stop post,2,2,Antonio Davis,Raptors,C,,-0.6,,no S7-9 mins
+Stop post,2,2,Myles Turner,,C,,-0.6,,no S7-9 mins
+Stop shooter,1,1,LeBron James,Heat,SF,3.0,30.08,TAKEOVER PERI-D GLUE TRADE,
+Stop shooter,1,1,Kobe Bryant,Lakers,SG,6.0,22.83,TAKEOVER PERI-D,faded:Shooter/Driver/Fouls
+Stop shooter,1,1,Kawhi Leonard,Raptors,SF,14.0,22.72,DRIVER PERI-D TRADE,faded:Glue
+Stop shooter,1,1,John Havlicek,,SF,15.0,19.24,SHOOTER PERI-D GLUE TRADE,
+Stop shooter,1,1,Michael Jordan,Bulls,SG,2.0,19.21,DRIVER PERI-D,faded:Takeover/Combo G/Glue
+Stop shooter,1,1,Paul George,Pacers,SF,42.0,13.3,PERI-D,faded:Driver/Glue/Passer
+Stop shooter,1,1,Jerry West,Lakers,PG,28.0,11.86,PERI-D PG COMBO,faded:Shooter/Driver
+Stop shooter,1,1,Walt Frazier,Knicks,PG,33.0,10.73,DRIVER PERI-D COMBO TRADE,faded:Glue
+Stop shooter,1,1,Scottie Pippen,Bulls,SF,18.0,10.68,PERI-D GLUE TRADE,faded:Fouls
+Stop shooter,1,1,Klay Thompson,Warriors,SG,32.0,8.96,SHOOTER PERI-D,faded:Takeover/Scorer
+Stop shooter,1,1,Joe Dumars,Pistons,SG,58.0,6.71,PERI-D PG COMBO,faded:Shooter/Driver/Fouls
+Stop shooter,1,1,Jason Kidd,Nets,PG,35.0,6.22,PERI-D GLUE COMBO TRADE,faded:Driver/Fouls/Scoring PG
+Stop shooter,1,1,Derrick White,,SG,229.0,5.41,PERI-D GLUE PG COMBO,faded:Fouls
+Stop shooter,1,1,John Starks,,SG,187.0,4.83,PERI-D COMBO,
+Stop shooter,1,1,Ron Artest,,SF,72.0,4.7,PERI-D GLUE TRADE,
+Stop shooter,1,1,Gary Payton,Thunder,PG,60.0,4.35,PERI-D COMBO TRADE,faded:Scoring PG/Glue
+Stop shooter,1,1,Dennis Johnson,Suns,PG,86.0,3.86,PERI-D COMBO TRADE,faded:Driver/Fouls/Glue
+Stop shooter,1,1,Chauncey Billups,Pistons,PG,83.0,3.74,PERI-D COMBO,faded:Scoring PG
+Stop shooter,1,1,Sidney Moncrief,Bucks,SG,100.0,2.87,PERI-D COMBO TRADE,faded:Driver/Fouls/Passer
+Stop shooter,1,1,Micheal Ray Richardson,,PG,105.0,2.69,PERI-D COMBO,faded:Fouls/Glue/Passer
+Stop shooter,1,1,Ron Harper,,PG,201.0,2.4,PERI-D COMBO,faded:Glue/Passer
+Stop shooter,1,1,Derek Harper,Mavericks,PG,216.0,2.36,COMBO,faded:Glue/Passer
+Stop shooter,1,1,John Stockton,Jazz,PG,43.0,2.23,PERI-D COMBO TRADE,<6'2 faded:Scoring PG/Passer
+Stop shooter,1,1,Bobby Jones,,SF,189.0,2.0,PERI-D INT-D 2WAY,
+Stop shooter,1,1,Amen Thompson,,SG,187.0,2.0,PERI-D,
+Stop shooter,1,1,Jalen Williams,Thunder,SF,105.0,1.6,PERI-D,
+Stop shooter,1,1,Luguentz Dort,,SG,,1.5,PERI-D,
+Stop shooter,1,1,Jerry Sloan,,SG,132.0,1.42,PERI-D,faded:Fouls
+Stop shooter,1,1,Tony Allen,,SG,240.0,1.41,PERI-D,faded:Combo G
+Stop shooter,1,1,Joe Caldwell,,SG,251.0,1.3,PERI-D,
+Stop shooter,1,1,Bruce Bowen,Spurs,SF,123.0,1.3,PERI-D,
+Stop shooter,1,1,Michael Cooper,Lakers,SG,202.0,1.2,PERI-D,
+Stop shooter,1,1,Rajon Rondo,Celtics,PG,207.0,1.11,PERI-D COMBO,<6'2 faded:Passer
+Stop shooter,1,1,Paul Pressey,1984-85 Bucks,SG,282.0,1.1,PERI-D,
+Stop shooter,1,1,Cason Wallace,,SG,,0.6,,
+Stop shooter,1,1,Danny Green,2013-14 Spurs,SG,,0.4,PERI-D TRADE,no S7-9 mins
+Stop shooter,1,1,Jrue Holiday,Pelicans,SG,215.0,0.3,PERI-D,no S7-9 mins
+Stop shooter,1,1,Dyson Daniels,,SG,,0.3,PERI-D,no S7-9 mins
+Stop shooter,1,1,Herbert Jones,,SF,,0.1,PERI-D,no S7-9 mins
+Stop shooter,1,1,Eric Snow,,PG,,-0.3,,no S7-9 mins
+Stop shooter,1,1,Maurice Cheeks,,PG,,-0.6,PERI-D,<6'2 no S7-9 mins
+Stop shooter,2,2,Shai Gilgeous-Alexander,,PG,7.0,27.21,TAKEOVER DRIVER PG COMBO,faded:Shooter/Glue
+Stop shooter,2,2,Anthony Edwards,,SG,40.0,20.9,TAKEOVER,faded:Shooter
+Stop shooter,2,2,Grant Hill,Pistons,SF,48.0,10.31,,faded:Takeover/Scorer/Driver
+Stop shooter,2,2,Baron Davis,Pelicans,PG,75.0,9.73,PG COMBO,faded:Driver/Fouls
+Stop shooter,2,2,Larry Bird,Celtics,SF,21.0,8.53,2WAY GLUE TRADE,faded:Scorer/Shooter/Driver
+Stop shooter,2,2,Kyle Lowry,Raptors,PG,244.0,6.11,PG COMBO,<6'2
+Stop shooter,2,2,Jimmy Butler,Heat,SF,93.0,3.18,,
+Stop shooter,2,2,Mikal Bridges,,SG,235.0,2.93,GLUE,
+Stop shooter,2,2,Don Buse,,PG,189.0,2.42,COMBO,faded:Driver/Fouls/Glue
+Stop shooter,2,2,Paul Arizin,,SF,70.0,2.22,TRADE,faded:Shooter/Fouls/Passer
+Stop shooter,2,2,Jalen Suggs,,PG,218.0,2.05,COMBO,
+Stop shooter,2,2,Larry Nance,Suns,SF,203.0,2.0,INT-D 2WAY,
+Stop shooter,2,2,Gerald Wallace,,SF,116.0,2.0,2WAY,
+Stop shooter,2,2,Jaden McDaniels,,SF,210.0,1.5,,
+Stop shooter,2,2,OG Anunoby,,SF,159.0,1.4,,
+Stop shooter,2,2,Isiah Thomas,Pistons,PG,86.0,1.38,COMBO,<6'2 faded:Driver/Fouls
+Stop shooter,2,2,Alex Caruso,,SF,248.0,0.9,,
+Stop shooter,2,2,Jack Marin,,SF,243.0,0.8,,
+Stop shooter,2,2,Bill Sharman,,SG,114.0,-0.05,,<6'2 faded:Driver/Fouls
+Stop shooter,2,2,Tari Eason,,SG,,-0.2,,no S7-9 mins
+Stop shooter,2,2,Dillon Brooks,,PF,,-0.2,,no S7-9 mins
+Stop shooter,2,2,Lonzo Ball,,PG,,-0.5,,no S7-9 mins
+Stop shooter,2,2,Marcus Smart,,SG,,-0.5,,no S7-9 mins
+Stop shooter,2,2,Andrew Nembhard,,PG,,-0.6,,no S7-9 mins
+Stop shooter,2,2,Matisse Thybulle,,SG,,-0.9,,no S7-9 mins
+Stretch 4/5,1,1 S9,Jayson Tatum,,PF,22.0,24.96,TAKEOVER GLUE STRETCH4,
+Stretch 4/5,1,1 S9,Dirk Nowitzki,Mavericks,PF,24.0,19.43,GLUE STRETCH4,faded:Driver/Fouls
+Stretch 4/5,1,1 S9,Bob Pettit,,PF,41.0,13.82,SHOOTER GLUE STRETCH4 ROLLER,D<85
+Stretch 4/5,1,1 S8,Victor Wembanyama,,C,10.0,11.81,INT-D STRETCH4 TRADE,
+Stretch 4/5,1,1 S9,Dolph Schayes,,PF,54.0,11.45,INT-D GLUE STRETCH4 ROLLER TRADE,faded:Passer
+Stretch 4/5,1,1 S7,Joel Embiid,76ers,C,62.0,9.43,INT-D STRETCH4 TRADE,faded:Fouls
+Stretch 4/5,1,1 S9,Kevin Love,Timberwolves,PF,125.0,7.03,GLUE STRETCH4,
+Stretch 4/5,1,1 S9,Jaren Jackson Jr.,Grizzlies,PF,150.0,4.59,INT-D GLUE STRETCH4,
+Stretch 4/5,1,1 S9,Karl-Anthony Towns,,C,131.0,2.86,STRETCH4,D<85 faded:Roller
+Stretch 4/5,1,1 S8,Rashard Lewis,,PF,165.0,1.76,STRETCH4,D<85
+Stretch 4/5,1,1 S9,Pascal Siakam,Pacers,PF,130.0,1.4,STRETCH4,
+Stretch 4/5,1,1 S9,Chet Holmgren,,PF,101.0,1.37,STRETCH4,
+Stretch 4/5,1,1 S7,Andrea Bargnani,,C,220.0,1.16,STRETCH4,D<85
+Stretch 4/5,1,1 S9,Kristaps Porzingis,,C,197.0,1.05,STRETCH4,D<85
+Stretch 4/5,1,1 S8,Aaron Gordon,,PF,200.0,-0.15,STRETCH4,D<85
+Stretch 4/5,2,2 S9,Josh Smith,,PF,137.0,6.5,INT-D 2WAY GLUE,
+Stretch 4/5,2,2 S9,Evan Mobley,Cavaliers,PF,116.0,4.85,INT-D ROLLER,
+Stretch 4/5,2,2 S9,Dave DeBusschere,Knicks,PF,,3.83,ROLLER,
+Stretch 4/5,2,2 S9,Draymond Green,Warriors,PF,102.0,3.1,INT-D GLUE,
+Stretch 4/5,2,2 S9,Toumani Camara,,PF,,2.5,2WAY,
+Stretch 4/5,2,2 S8f,Jerry Lucas,Kings,PF,113.0,2.12,TRADE,faded:Stretch 4/5
+Stretch 4/5,2,2 S7f,Andrei Kirilenko,,PF,92.0,0.56,,D<85 faded:Glue/Stretch 4/5/Roller
+Takeover,1,1 S9,Kevin Durant,Thunder,SF,18.0,30.31,TAKEOVER SHOOTER GLUE TRADE,
+Takeover,1,1 S9,LeBron James,Heat,SF,3.0,30.08,TAKEOVER PERI-D GLUE TRADE,
+Takeover,1,1 S9,Gilbert Arenas,,PG,29.0,29.82,TAKEOVER SHOOTER DRIVER PG COMBO,D<85
+Takeover,1,1 S8,Shai Gilgeous-Alexander,,PG,7.0,27.21,TAKEOVER DRIVER PG COMBO,faded:Shooter/Glue
+Takeover,1,1 S9,Carmelo Anthony,,SF,17.0,26.59,TAKEOVER SHOOTER DRIVER,D<85
+Takeover,1,1 S9,Stephen Curry,Warriors,PG,21.0,26.04,TAKEOVER SHOOTER,D<85 faded:Combo G/Passer
+Takeover,1,1 S9,Tracy McGrady,Magic,SG,46.0,25.05,TAKEOVER SHOOTER GLUE,D<85 faded:Driver/Fouls/Combo G
+Takeover,1,1 S9,Jayson Tatum,,PF,22.0,24.96,TAKEOVER GLUE STRETCH4,
+Takeover,1,1 S9,Kobe Bryant,Lakers,SG,6.0,22.83,TAKEOVER PERI-D,faded:Shooter/Driver/Fouls
+Takeover,1,1 S7,Vince Carter,Raptors,SF,21.0,22.75,TAKEOVER DRIVER,D<85 faded:Shooter/Glue
+Takeover,1,1 S8,Derrick Rose,Bulls,PG,24.0,21.79,TAKEOVER DRIVER PG COMBO,D<85
+Takeover,1,1 S9,Anthony Edwards,,SG,40.0,20.9,TAKEOVER,faded:Shooter
+Takeover,1,1 S7f,Michael Jordan,Bulls,SG,2.0,19.21,DRIVER PERI-D,faded:Takeover/Combo G/Glue
+Takeover,1,1 S8f,James Harden,Rockets,SG,33.0,17.21,PG COMBO,D<85 faded:Takeover/Driver
+Takeover,1,1 S8,Ray Allen,,SG,40.0,14.97,TAKEOVER,
+Takeover,1,1 S7f,Dwyane Wade,Heat,SG,13.0,14.55,COMBO,faded:Takeover/Scorer
+Takeover,1,1 S7f,Russell Westbrook,Thunder,PG,63.0,13.63,DRIVER PG COMBO,D<85 faded:Takeover/Scorer
+Takeover,1,1 S7f,Mitch Richmond,Kings,SG,42.0,9.73,SHOOTER,D<85 faded:Takeover/Scorer/Fouls
+Takeover,1,1 S8f,Klay Thompson,Warriors,SG,32.0,8.96,SHOOTER PERI-D,faded:Takeover/Scorer
+Takeover,2,2 S9,Oscar Robertson,Kings,PG,7.0,26.14,DRIVER GLUE PG COMBO,
+Takeover,2,2 S9,Kawhi Leonard,Raptors,SF,14.0,22.72,DRIVER PERI-D TRADE,faded:Glue
+Takeover,2,2 S9,Giannis Antetokounmpo,,PF,5.0,22.26,INT-D 2WAY GLUE ROLLER,
+Takeover,2,2 S9,Dirk Nowitzki,Mavericks,PF,24.0,19.43,GLUE STRETCH4,faded:Driver/Fouls
+Takeover,2,2 S9,John Havlicek,,SF,15.0,19.24,SHOOTER PERI-D GLUE TRADE,
+Takeover,2,2 S7f,Devin Booker,,PG,62.0,13.5,,D<85 faded:Takeover/Driver/Combo G
+Takeover,2,2 S8f,Julius Erving,Nets,SF,29.0,12.39,,faded:Takeover/Scorer
+Takeover,2,2 S7f,Kyrie Irving,Cavaliers,PG,87.0,11.89,COMBO,D<85 faded:Takeover/Scorer/Shooter
+Takeover,2,2 S8f,Grant Hill,Pistons,SF,48.0,10.31,,faded:Takeover/Scorer/Driver
+Trade value,1,1,Kevin Durant,Thunder,SF,18.0,30.31,TAKEOVER SHOOTER GLUE TRADE,
+Trade value,1,1,LeBron James,Heat,SF,3.0,30.08,TAKEOVER PERI-D GLUE TRADE,
+Trade value,1,1,Kawhi Leonard,Raptors,SF,14.0,22.72,DRIVER PERI-D TRADE,faded:Glue
+Trade value,1,1,John Havlicek,,SF,15.0,19.24,SHOOTER PERI-D GLUE TRADE,
+Trade value,1,1,Kareem Abdul-Jabbar,Bucks,C,3.0,16.97,INT-D ROLLER TRADE,
+Trade value,1,1,Hakeem Olajuwon,Rockets,C,20.0,14.34,INT-D ROLLER TRADE,
+Trade value,1,1,Tim Duncan,Spurs,PF,36.0,13.72,INT-D GLUE ROLLER TRADE,
+Trade value,1,1,Wilt Chamberlain,Warriors,C,10.0,12.8,INT-D ROLLER TRADE,
+Trade value,1,1,Karl Malone,Jazz,PF,73.0,12.63,INT-D GLUE ROLLER TRADE,
+Trade value,1,1,Shaquille O'Neal,Lakers,C,9.0,12.59,INT-D ROLLER TRADE,
+Trade value,1,1,Victor Wembanyama,,C,10.0,11.81,INT-D STRETCH4 TRADE,
+Trade value,1,1,Dolph Schayes,,PF,54.0,11.45,INT-D GLUE STRETCH4 ROLLER TRADE,faded:Passer
+Trade value,1,1,Dwight Howard,,C,45.0,10.98,INT-D ROLLER TRADE,
+Trade value,1,1,Walt Frazier,Knicks,PG,33.0,10.73,DRIVER PERI-D COMBO TRADE,faded:Glue
+Trade value,1,1,Scottie Pippen,Bulls,SF,18.0,10.68,PERI-D GLUE TRADE,faded:Fouls
+Trade value,1,1,Artis Gilmore,Bulls,C,64.0,10.55,INT-D ROLLER TRADE,
+Trade value,1,1,Yao Ming,Rockets,C,144.0,10.08,INT-D ROLLER TRADE,
+Trade value,1,1,Patrick Ewing,Knicks,C,36.0,9.75,INT-D ROLLER TRADE,
+Trade value,1,1,Moses Malone,76ers,C,50.0,9.57,INT-D ROLLER TRADE,
+Trade value,1,1,DeAndre Jordan,2013-14 Clippers,C,157.0,9.43,INT-D ROLLER TRADE,
+Trade value,1,1,Joel Embiid,76ers,C,62.0,9.43,INT-D STRETCH4 TRADE,faded:Fouls
+Trade value,1,1,Tyson Chandler,2011-12 Knicks,C,189.0,9.32,INT-D ROLLER TRADE,
+Trade value,1,1,Elvin Hayes,Wizards,PF,110.0,8.85,INT-D GLUE ROLLER TRADE,
+Trade value,1,1,David Robinson,Spurs,C,65.0,8.84,INT-D ROLLER TRADE,
+Trade value,1,1,Robert Parish,Celtics,C,117.0,8.79,INT-D ROLLER TRADE,
+Trade value,1,1,Anthony Davis,Lakers,C,51.0,8.75,INT-D ROLLER TRADE,
+Trade value,1,1,Bill Walton,Trail Blazers,C,68.0,8.63,INT-D ROLLER TRADE,
+Trade value,1,1,Rudy Gobert,Jazz,C,150.0,8.57,INT-D ROLLER TRADE,
+Trade value,1,1,Larry Bird,Celtics,SF,21.0,8.53,2WAY GLUE TRADE,faded:Scorer/Shooter/Driver
+Trade value,1,1,Mark Eaton,,C,96.0,8.52,INT-D ROLLER TRADE,
+Trade value,1,1,Chris Mullin,Warriors,SF,63.0,8.1,SHOOTER TRADE,
+Trade value,1,1,Dikembe Mutombo,Hawks,C,67.0,7.93,INT-D ROLLER TRADE,
+Trade value,1,1,Alonzo Mourning,Heat,C,77.0,7.77,INT-D ROLLER TRADE,
+Trade value,1,1,Pau Gasol,Grizzlies,C,104.0,7.68,INT-D ROLLER TRADE,
+Trade value,1,1,Kevin McHale,Celtics,PF,130.0,7.29,INT-D ROLLER TRADE,
+Trade value,1,1,Nate Thurmond,,C,84.0,6.97,INT-D ROLLER TRADE,
+Trade value,1,1,Jason Kidd,Nets,PG,35.0,6.22,PERI-D GLUE COMBO TRADE,faded:Driver/Fouls/Scoring PG
+Trade value,1,1,Elgin Baylor,Lakers,SF,53.0,5.99,TRADE,faded:Driver/Glue
+Trade value,1,1,George Mikan,,C,119.0,5.96,INT-D ROLLER TRADE,
+Trade value,1,1,Dave Cowens,,C,103.0,5.91,INT-D ROLLER TRADE,
+Trade value,1,1,Joakim Noah,Bulls,C,159.0,5.64,INT-D ROLLER TRADE,
+Trade value,1,1,Marc Gasol,Grizzlies,C,106.0,5.05,INT-D ROLLER TRADE,
+Trade value,1,1,Bob Cousy,,PG,75.0,4.97,PG COMBO TRADE,<6'2 faded:Fouls
+Trade value,1,1,Ron Artest,,SF,72.0,4.7,PERI-D GLUE TRADE,
+Trade value,1,1,Gary Payton,Thunder,PG,60.0,4.35,PERI-D COMBO TRADE,faded:Scoring PG/Glue
+Trade value,1,1,Marcus Camby,2007-08 Nuggets,C,182.0,4.05,INT-D ROLLER TRADE,
+Trade value,1,1,Willis Reed,Knicks,C,100.0,4.04,INT-D ROLLER TRADE,
+Trade value,1,1,Dennis Johnson,Suns,PG,86.0,3.86,PERI-D COMBO TRADE,faded:Driver/Fouls/Glue
+Trade value,1,1,Chris Paul,,PG,39.0,3.62,COMBO TRADE,<6'2 faded:Driver/Fouls/Scoring PG
+Trade value,1,1,Jack Sikma,,C,190.0,3.3,INT-D ROLLER TRADE,
+Trade value,1,1,Eddie Jones,Hornets,SG,80.0,3.23,TRADE,faded:Glue
+Trade value,1,1,P.J. Brown,1996-97 Heat,C,239.0,3.2,INT-D ROLLER TRADE,
+Trade value,1,1,Sidney Moncrief,Bucks,SG,100.0,2.87,PERI-D COMBO TRADE,faded:Driver/Fouls/Passer
+Trade value,1,1,Al Horford,Hawks,C,,2.4,INT-D TRADE,
+Trade value,1,1,John Stockton,Jazz,PG,43.0,2.23,PERI-D COMBO TRADE,<6'2 faded:Scoring PG/Passer
+Trade value,1,1,Paul Arizin,,SF,70.0,2.22,TRADE,faded:Shooter/Fouls/Passer
+Trade value,1,1,Jerry Lucas,Kings,PF,113.0,2.12,TRADE,faded:Stretch 4/5
+Trade value,1,1,Serge Ibaka,,C,193.0,0.4,INT-D TRADE,no S7-9 mins
+Trade value,1,1,Danny Green,2013-14 Spurs,SG,,0.4,PERI-D TRADE,no S7-9 mins
+Trade value,1,1,Roy Hibbert,Pacers,C,280.0,0.4,INT-D TRADE,no S7-9 mins
+Trade value,1,1,Ivica Zubac,,C,218.0,0.4,INT-D TRADE,no S7-9 mins
+Trade value,2,2,Shai Gilgeous-Alexander,,PG,7.0,27.21,TAKEOVER DRIVER PG COMBO,faded:Shooter/Glue
+Trade value,2,2,Carmelo Anthony,,SF,17.0,26.59,TAKEOVER SHOOTER DRIVER,D<85
+Trade value,2,2,Oscar Robertson,Kings,PG,7.0,26.14,DRIVER GLUE PG COMBO,
+Trade value,2,2,Stephen Curry,Warriors,PG,21.0,26.04,TAKEOVER SHOOTER,D<85 faded:Combo G/Passer
+Trade value,2,2,Tracy McGrady,Magic,SG,46.0,25.05,TAKEOVER SHOOTER GLUE,D<85 faded:Driver/Fouls/Combo G
+Trade value,2,2,Jayson Tatum,,PF,22.0,24.96,TAKEOVER GLUE STRETCH4,
+Trade value,2,2,Kobe Bryant,Lakers,SG,6.0,22.83,TAKEOVER PERI-D,faded:Shooter/Driver/Fouls
+Trade value,2,2,Vince Carter,Raptors,SF,21.0,22.75,TAKEOVER DRIVER,D<85 faded:Shooter/Glue
+Trade value,2,2,Giannis Antetokounmpo,,PF,5.0,22.26,INT-D 2WAY GLUE ROLLER,
+Trade value,2,2,Derrick Rose,Bulls,PG,24.0,21.79,TAKEOVER DRIVER PG COMBO,D<85
+Trade value,2,2,Anthony Edwards,,SG,40.0,20.9,TAKEOVER,faded:Shooter
+Trade value,2,2,Dirk Nowitzki,Mavericks,PF,24.0,19.43,GLUE STRETCH4,faded:Driver/Fouls
+Trade value,2,2,Michael Jordan,Bulls,SG,2.0,19.21,DRIVER PERI-D,faded:Takeover/Combo G/Glue
+Trade value,2,2,Magic Johnson,Lakers,PG,8.0,18.04,DRIVER 2WAY GLUE COMBO,
+Trade value,2,2,Damian Lillard,Trail Blazers,PG,113.0,17.97,SHOOTER PG COMBO,D<85 faded:Driver
+Trade value,2,2,James Harden,Rockets,SG,33.0,17.21,PG COMBO,D<85 faded:Takeover/Driver
+Trade value,2,2,Ray Allen,,SG,40.0,14.97,TAKEOVER,
+Trade value,2,2,Dwyane Wade,Heat,SG,13.0,14.55,COMBO,faded:Takeover/Scorer
+Trade value,2,2,Bob Pettit,,PF,41.0,13.82,SHOOTER GLUE STRETCH4 ROLLER,D<85
+Trade value,2,2,Russell Westbrook,Thunder,PG,63.0,13.63,DRIVER PG COMBO,D<85 faded:Takeover/Scorer
+Trade value,2,2,Bob McAdoo,,C,83.0,12.61,DRIVER,faded:Roller
+Trade value,2,2,Julius Erving,Nets,SF,29.0,12.39,,faded:Takeover/Scorer
+Trade value,2,2,Luka Doncic,,PG,40.0,11.93,COMBO,D<85 faded:Driver/Fouls/Scoring PG
+Trade value,2,2,Kyrie Irving,Cavaliers,PG,87.0,11.89,COMBO,D<85 faded:Takeover/Scorer/Shooter
+Trade value,2,2,Jerry West,Lakers,PG,28.0,11.86,PERI-D PG COMBO,faded:Shooter/Driver
+Trade value,2,2,Kevin Garnett,2003-04 Timberwolves,PF,25.0,11.25,INT-D,
+Trade value,2,2,Nate Archibald,,PG,174.0,11.13,DRIVER COMBO,D<85 <6'2
+Trade value,2,2,Nikola Jokic,,C,18.0,10.68,DRIVER,D<85 faded:Fouls
+Trade value,2,2,Pete Maravich,Jazz,SG,77.0,10.34,COMBO,D<85 faded:Shooter
+Trade value,2,2,Mel Daniels,,C,149.0,10.04,INT-D ROLLER,
+Trade value,2,2,Tony Parker,Spurs,PG,72.0,9.88,DRIVER COMBO,D<85 faded:Scoring PG
+Trade value,2,2,Mitch Richmond,Kings,SG,42.0,9.73,SHOOTER,D<85 faded:Takeover/Scorer/Fouls
+Trade value,2,2,Klay Thompson,Warriors,SG,32.0,8.96,SHOOTER PERI-D,faded:Takeover/Scorer
+Trade value,2,2,Allen Iverson,76ers,SG,45.0,8.52,DRIVER COMBO,<6'2 faded:Scorer/Scoring PG
+Trade value,2,2,Jalen Duren,,C,212.0,8.36,ROLLER,
+Trade value,2,2,Rick Barry,,SF,59.0,8.13,GLUE,D<85 faded:Passer
+Trade value,2,2,Gail Goodrich,,SG,157.0,8.02,SHOOTER COMBO,<6'2
+Trade value,2,2,Clyde Drexler,Trail Blazers,SG,47.0,8.02,GLUE,faded:Driver/Fouls/Passer
+Trade value,2,2,Tim Hardaway,Warriors,PG,179.0,7.93,PG COMBO,<6'2
+Trade value,2,2,Hassan Whiteside,,C,205.0,7.45,ROLLER,
+Trade value,2,2,Dan Issel,,PF,194.0,6.99,GLUE ROLLER,
+Trade value,2,2,Joe Dumars,Pistons,SG,58.0,6.71,PERI-D PG COMBO,faded:Shooter/Driver/Fouls
+Trade value,2,2,Josh Smith,,PF,137.0,6.5,INT-D 2WAY GLUE,
+Trade value,2,2,Kyle Lowry,Raptors,PG,244.0,6.11,PG COMBO,<6'2
+Trade value,2,2,Jo Jo White,,PG,143.0,6.1,COMBO,faded:Driver/Fouls/Scoring PG
+Trade value,2,2,Penny Hardaway,Magic,PG,45.0,5.76,COMBO,faded:Driver/Scoring PG/Glue
+Trade value,2,2,Derrick White,,SG,229.0,5.41,PERI-D GLUE PG COMBO,faded:Fouls
+Trade value,2,2,Dominique Wilkins,Hawks,SF,100.0,5.01,GLUE,D<85 faded:Driver
+Trade value,2,2,Evan Mobley,Cavaliers,PF,116.0,4.85,INT-D ROLLER,
+Trade value,2,2,John Starks,,SG,187.0,4.83,PERI-D COMBO,
+Trade value,2,2,George Gervin,Spurs,SF,112.0,4.8,,faded:Driver/Fouls/Glue
+Trade value,2,2,Jaren Jackson Jr.,Grizzlies,PF,150.0,4.59,INT-D GLUE STRETCH4,
+Trade value,2,2,Cade Cunningham,,PG,78.0,4.36,PG COMBO,D<85
+Trade value,2,2,Fat Lever,,PG,139.0,4.29,COMBO,
+Trade value,2,2,Wes Unseld,,C,131.0,4.1,ROLLER,
+Trade value,2,2,Paul Pierce,Celtics,SF,64.0,3.91,,
+Trade value,2,2,Bam Adebayo,,C,201.0,3.9,INT-D 2WAY ROLLER,
+Trade value,2,2,Doug Christie,Raptors,SG,,3.8,GLUE,
+Trade value,2,2,Chauncey Billups,Pistons,PG,83.0,3.74,PERI-D COMBO,faded:Scoring PG
+Trade value,2,2,Steve Nash,Suns,PG,59.0,3.69,PG COMBO,D<85
+Trade value,2,2,Dennis Rodman,Bulls,PF,149.0,3.3,INT-D ROLLER,
+Trade value,2,2,David Thompson,,SG,129.0,3.2,GLUE,
+Trade value,2,2,Draymond Green,Warriors,PF,102.0,3.1,INT-D GLUE,
+Trade value,2,2,Ben Wallace,2003-04 Pistons,C,173.0,3.1,INT-D ROLLER,
+Trade value,2,2,Maurice Lucas,,PF,193.0,3.06,INT-D,
+Trade value,2,2,Mikal Bridges,,SG,235.0,2.93,GLUE,
+Trade value,2,2,James Worthy,Lakers,SF,85.0,2.79,2WAY,faded:Fouls/Glue
+Trade value,2,2,Micheal Ray Richardson,,PG,105.0,2.69,PERI-D COMBO,faded:Fouls/Glue/Passer
+Trade value,2,2,Toumani Camara,,PF,,2.5,2WAY,
+Trade value,2,2,Rony Seikaly,,C,213.0,2.5,ROLLER,
+Trade value,2,2,Don Buse,,PG,189.0,2.42,COMBO,faded:Driver/Fouls/Glue
+Trade value,2,2,Ron Harper,,PG,201.0,2.4,PERI-D COMBO,faded:Glue/Passer
+Trade value,2,2,Donovan Mitchell,,SG,95.0,2.26,COMBO,D<85 faded:Scorer/Shooter/Driver
+Trade value,2,2,Jalen Suggs,,PG,218.0,2.05,COMBO,
+Trade value,2,2,Larry Nance,Suns,SF,203.0,2.0,INT-D 2WAY,
+Trade value,2,2,Bobby Jones,,SF,189.0,2.0,PERI-D INT-D 2WAY,
+Trade value,2,2,Amen Thompson,,SG,187.0,2.0,PERI-D,
+Trade value,2,2,Gerald Wallace,,SF,116.0,2.0,2WAY,
+Trade value,2,2,Ausar Thompson,,SF,,2.0,2WAY,
+Trade value,2,2,Jaylen Brown,,SF,60.0,1.86,,faded:Shooter/Fouls
+Trade value,2,2,Jalen Williams,Thunder,SF,105.0,1.6,PERI-D,
+Trade value,2,2,Luguentz Dort,,SG,,1.5,PERI-D,
+Trade value,2,2,Jaden McDaniels,,SF,210.0,1.5,,
+Trade value,2,2,Jerry Sloan,,SG,132.0,1.42,PERI-D,faded:Fouls
+Trade value,2,2,Tony Allen,,SG,240.0,1.41,PERI-D,faded:Combo G
+Trade value,2,2,OG Anunoby,,SF,159.0,1.4,,
+Trade value,2,2,Isiah Thomas,Pistons,PG,86.0,1.38,COMBO,<6'2 faded:Driver/Fouls
+Trade value,2,2,Joe Caldwell,,SG,251.0,1.3,PERI-D,
+Trade value,2,2,Bruce Bowen,Spurs,SF,123.0,1.3,PERI-D,
+Trade value,2,2,Michael Cooper,Lakers,SG,202.0,1.2,PERI-D,
+Trade value,2,2,Rajon Rondo,Celtics,PG,207.0,1.11,PERI-D COMBO,<6'2 faded:Passer
+Trade value,2,2,Paul Pressey,1984-85 Bucks,SG,282.0,1.1,PERI-D,
+Trade value,2,2,Alex Caruso,,SF,248.0,0.9,,
+Trade value,2,2,Shane Battier,Grizzlies,SF,155.0,0.7,,
+Trade value,2,2,Luol Deng,,SF,245.0,0.7,,
+Trade value,2,2,Dick Van Arsdale,,SG,148.0,0.42,,faded:Passer
+Trade value,2,2,Jrue Holiday,Pelicans,SG,215.0,0.3,PERI-D,no S7-9 mins
+Trade value,2,2,Dyson Daniels,,SG,,0.3,PERI-D,no S7-9 mins
+Trade value,2,2,Tom Heinsohn,,PF,268.0,0.1,INT-D,no S7-9 mins
+Trade value,2,2,Charles Oakley,Knicks,PF,,0.1,INT-D,no S7-9 mins
+Trade value,2,2,Jamaal Wilkes,,SF,270.0,0.1,,no S7-9 mins
+Trade value,2,2,Dave Debusschere,,PF,116.0,0.1,INT-D,no S7-9 mins
+Trade value,2,2,Horace Grant,Bulls,PF,,0.1,INT-D,no S7-9 mins
+Trade value,2,2,Herbert Jones,,SF,,0.1,PERI-D,no S7-9 mins
+Trade value,2,2,Buck Williams,,PF,,-0.1,INT-D,no S7-9 mins
+Trade value,2,2,Dillon Brooks,,PF,,-0.2,,no S7-9 mins
+Trade value,2,2,David West,,PF,,-0.3,,no S7-9 mins
+Trade value,2,2,Tree Rollins,,C,,-0.3,,no S7-9 mins
+Trade value,2,2,Bill Laimbeer,Pistons,C,,-0.4,,no S7-9 mins
+Trade value,2,2,Shawn Bradley,,C,,-0.4,,no S7-9 mins
+Trade value,2,2,Marcus Smart,,SG,,-0.5,,no S7-9 mins
+Trade value,2,2,Maurice Cheeks,,PG,,-0.6,PERI-D,<6'2 no S7-9 mins
+Trade value,2,2,Mario Chalmers,,PG,,-0.7,,no S7-9 mins
